@@ -9,3 +9,8 @@ API中**输入参数**使用变量名占位：
 ```
 
 相关隐私信息中**数字**按位取1：1990 -> 1111。**字符串**统一用'xxxxxx'替换。
+
+## APIs List:
+
+1. [登录API](https://github.com/theprimone/SNH48G-API/blob/master/login.md)
+2. [团体直播API](https://github.com/theprimone/SNH48G-API/blob/master/group-live.md)
