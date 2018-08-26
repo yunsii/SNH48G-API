@@ -20,7 +20,7 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
 }
 ```
 
-## 请求表单数据：
+## 表单数据：
 ```python
 {
     'latitude': 0,
