@@ -12,6 +12,15 @@ API中**输入参数**使用变量名占位：
 
 ## APIs List:
 
-### 口袋48
+### 口袋48（pocket48）
 1. [登录API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/login.md)
 2. [团体直播API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/group-live.md)
+
+### 官网（OS - Official Site）
+1. [SNH48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/SNH48-members.md)
+2. [BEJ48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/BEJ48-members.md)
+3. [GNZ48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/GNZ48-members.md)
+4. [SHY48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/SHY48-members.md)
+5. [CKG48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/CKG48-members.md)
+
+#### SNH48所有成员基本信息不包含Ft成员
