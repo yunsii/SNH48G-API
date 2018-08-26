@@ -57,7 +57,7 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
             {
               'type': 0, 'thirdName': 'xxxxxx'  # 微博
             }, {
-              'type': 1, 'thirdName': 'xxxxxxº'  # QQ
+              'type': 1, 'thirdName': 'xxxxxx'  # QQ
             }, {
               'type': 2, 'thirdName': 'xxxxxx'  # 微信
             }, {
