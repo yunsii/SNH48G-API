@@ -27,7 +27,7 @@ https://plive.48.cn/livesystem/api/live/v1/openLivePage
 }
 ```
 
-## 已知参数说明：
+## 已知表单参数说明：
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ------- | ---- | ----- | ----
 isReview | int | 是否回放 | N | 0 | 0-No/ 1-Yes
