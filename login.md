@@ -52,7 +52,7 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
             'starwo': False,
             'phoneType': 0
         },
-        'token': 'G5b/SIdbzTirpegL87m/KXvgMlZ3VNgGyEWozKtJMVyj+MQb/Ffb74gkp+LwsnrCKpHVWAVBwRA=',
+        'token': 'xxxxxx',
         'bindInfo': [
             {
               'type': 0, 'thirdName': 'xxxxxx'  # 微博
