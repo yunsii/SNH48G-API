@@ -1,6 +1,7 @@
 # 登录
 
-api:
+API:
+
 https://puser.48.cn/usersystem/api/user/v1/login/phone
 
 ## 请求头：
