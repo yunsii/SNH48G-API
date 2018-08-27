@@ -50,7 +50,6 @@ limit | int |  | N |  | 配置前后都返回全部直播信息
 
 ### 成功：
 
-#### isReview : 0
 ```python
 {
     "status": 200,
