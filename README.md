@@ -25,6 +25,9 @@ API中**输入参数**使用变量名占位：
 4. [GNZ48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/GNZ48-members.md)
 5. [SHY48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/SHY48-members.md)
 6. [CKG48成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/CKG48-members.md)
+7. [票务信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/tickets-info.md)
+8. [EP信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/ep.md)
+9. [活动信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/event.md)
 
 #### 2中SNH48所有成员基本信息不包含Ft成员
 
