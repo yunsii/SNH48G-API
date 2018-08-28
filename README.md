@@ -12,13 +12,14 @@ API中**输入参数**使用变量名占位：
 
 ## APIs List:
 
-分类按添加时间排序
+分类按**添加时间**排序
 
 ### 口袋48（pocket48）
 1. [登录API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/login.md)
 2. [公演直播API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/group-live.md)
 3. [成员直播API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-live.md)
 4. [直播详情API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/live-detail.md)
+5. [成员房间消息API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-room-message.md)
 
 ### 官网（OS - Official Site）
 1. [条件查询成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/members.md)
