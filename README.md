@@ -10,6 +10,10 @@ API中**输入参数**使用变量名占位：
 
 相关隐私信息中**数字**按位取1：1990 -> 1111；**字符串**统一用'xxxxxx'替换。
 
+## room-id
+
+获取房间消息等请求涉及到的必输字段，详情见[room-id](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-id.md)。
+
 ## APIs List:
 
 分类按**添加时间**排序
