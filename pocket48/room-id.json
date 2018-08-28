@@ -1,0 +1,2874 @@
+[
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "陈观慧",
+        "room_id": "5777227",
+        "nickname": "小艾"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "戴萌",
+        "room_id": "5774514",
+        "nickname": "呆萌"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "吴哲晗",
+        "room_id": "5771856",
+        "nickname": "五折"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "许佳琪",
+        "room_id": "5773747",
+        "nickname": "kiki"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "陈思",
+        "room_id": "5779210",
+        "nickname": "教练"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "徐晨辰",
+        "room_id": "5773746",
+        "nickname": "CC"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "张语格",
+        "room_id": "5776891",
+        "nickname": "章鱼哥"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "李宇琪",
+        "room_id": "5782030",
+        "nickname": "毛毛"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "莫寒",
+        "room_id": "5778527",
+        "nickname": "momo"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "赵嘉敏",
+        "room_id": "",
+        "nickname": "savoki"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "钱蓓婷",
+        "room_id": "5779209",
+        "nickname": "钱少"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "孔肖吟",
+        "room_id": "5782029",
+        "nickname": "消音姐"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "邱欣怡",
+        "room_id": "5758962",
+        "nickname": "湾湾"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "沈之琳",
+        "room_id": "5778524",
+        "nickname": "小双"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "黄婷婷",
+        "room_id": "5776897",
+        "nickname": "阔太太"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "赵粤",
+        "room_id": "5777230",
+        "nickname": "玉米、会长、广东仔"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "陈佳莹",
+        "room_id": "5780789",
+        "nickname": "呵呵姐"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "曾艳芬",
+        "room_id": "",
+        "nickname": "撸力"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "孙芮",
+        "room_id": "5777228",
+        "nickname": "三妹"
+    },
+    {
+        "gname": "-48",
+        "tname": "-",
+        "sname": "鞠婧祎",
+        "room_id": "",
+        "nickname": "-"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "陆婷",
+        "room_id": "5773750",
+        "nickname": "大哥"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "蒋芸",
+        "room_id": "5776896",
+        "nickname": "未来"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "董艳芸",
+        "room_id": "",
+        "nickname": "芸子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "唐安琪",
+        "room_id": "",
+        "nickname": "小天使、安琪"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "易嘉爱",
+        "room_id": "5776904",
+        "nickname": "守年"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "温晶婕",
+        "room_id": "5783153",
+        "nickname": "草莓"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "林思意",
+        "room_id": "5774511",
+        "nickname": "小四"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "冯薪朵",
+        "room_id": "5779207",
+        "nickname": "那那西"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "何晓玉",
+        "room_id": "5773743",
+        "nickname": "晓晓、小玉"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "徐子轩",
+        "room_id": "5777229",
+        "nickname": "络络"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "孟玥",
+        "room_id": "",
+        "nickname": "船长"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "李艺彤",
+        "room_id": "5771855",
+        "nickname": "发卡"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "龚诗淇",
+        "room_id": "",
+        "nickname": "17"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "万丽娜",
+        "room_id": "5776899",
+        "nickname": "娜娜"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "袁雨桢",
+        "room_id": "5770616",
+        "nickname": "余震、俊俊"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "陈问言",
+        "room_id": "5774518",
+        "nickname": "豆芽"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "周佳怡",
+        "room_id": "19376836",
+        "nickname": "周周、清子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "陈怡馨",
+        "room_id": "",
+        "nickname": "嘟嘟"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "赵晔",
+        "room_id": "5770621",
+        "nickname": "腿腿，雪野"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "张雨鑫",
+        "room_id": "5782031",
+        "nickname": "叉叉"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "袁丹妮",
+        "room_id": "5758963",
+        "nickname": "考拉，koala"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "杨惠婷",
+        "room_id": "5776912",
+        "nickname": "Miyo"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "许杨玉琢",
+        "room_id": "5783159",
+        "nickname": "绵羊，步美"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "徐伊人",
+        "room_id": "5779211",
+        "nickname": "YIR，龙龙酱"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "张昕",
+        "room_id": "5776908",
+        "nickname": "紫菜"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "郝婉晴",
+        "room_id": "5778526",
+        "nickname": "晴格格"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "徐晗",
+        "room_id": "5773753",
+        "nickname": "小乌龟"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "王柏硕",
+        "room_id": "5770620",
+        "nickname": "sukey"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "刘炅然",
+        "room_id": "5780790",
+        "nickname": "怪兽"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "刘佩鑫",
+        "room_id": "5770619",
+        "nickname": "背心"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "谢妮",
+        "room_id": "5778528",
+        "nickname": "妮子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "吴燕文",
+        "room_id": "5758965",
+        "nickname": "兔兔"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "李清扬",
+        "room_id": "5770618",
+        "nickname": "kuma"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "林楠",
+        "room_id": "5776909",
+        "nickname": "luna"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "司珀琳",
+        "room_id": "19375742",
+        "nickname": "阿司、珀珀、梨子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "陈琳",
+        "room_id": "5783160",
+        "nickname": "琳崽、琳姐"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "李钊",
+        "room_id": "5779212",
+        "nickname": "桃子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "邵雪聪",
+        "room_id": "5776914",
+        "nickname": "Coco"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "冯晓菲",
+        "room_id": "5780791",
+        "nickname": "灰灰"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "张丹三",
+        "room_id": "5780793",
+        "nickname": "碳酸"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "李晶",
+        "room_id": "5776913",
+        "nickname": "大米"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "孙歆文",
+        "room_id": "5783164",
+        "nickname": "新闻"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "汪佳翎",
+        "room_id": "5780792",
+        "nickname": "九九"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "宋昕冉",
+        "room_id": "5770622",
+        "nickname": "冉冉"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "王晓佳",
+        "room_id": "5783166",
+        "nickname": "天草"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "闫明筠",
+        "room_id": "5776916",
+        "nickname": "菌菇"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "谢天依",
+        "room_id": "5776915",
+        "nickname": "笨笨"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "杨韫玉",
+        "room_id": "",
+        "nickname": "丸子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "汪束",
+        "room_id": "5779213",
+        "nickname": "Soku"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "杨冰怡",
+        "room_id": "5779214",
+        "nickname": "二水"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "刘闲",
+        "room_id": "5777255",
+        "nickname": "雪饼"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "任玥霖",
+        "room_id": "5771883",
+        "nickname": "好好 教主 未来"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "张怀瑾",
+        "room_id": "5779224",
+        "nickname": "锦鲤"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "陈珂",
+        "room_id": "5771862",
+        "nickname": "CK、珂导"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "XII",
+        "sname": "陈音",
+        "room_id": "",
+        "nickname": "凯琳、音宝、小音音"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "费沁源",
+        "room_id": "5782033",
+        "nickname": "圆圆"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "陈韫凌",
+        "room_id": "5776932",
+        "nickname": "-"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "段艺璇",
+        "room_id": "5774521",
+        "nickname": "大可爱、二米一的大阿璇"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "蒋舒婷",
+        "room_id": "5778534",
+        "nickname": "猪蹄"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "陈美君",
+        "room_id": "5778530",
+        "nickname": "MIMI"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "陈雨琪",
+        "room_id": "5776933",
+        "nickname": "小可爱、团子、minaki"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "刘增艳",
+        "room_id": "5783215",
+        "nickname": "增锅、增增"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "刘梦雅",
+        "room_id": "",
+        "nickname": "沐叶"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "李沁洁",
+        "room_id": "5774523",
+        "nickname": "木子、kiko"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "刘筱筱",
+        "room_id": "",
+        "nickname": "筱筱、大大"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "林嘉佩",
+        "room_id": "5777232",
+        "nickname": "佩佩、小0"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "沈梦瑶",
+        "room_id": "5773766",
+        "nickname": "神喵、瑶瑶"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "王露皎",
+        "room_id": "5779216",
+        "nickname": "饺子、鹿角"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "冯雪莹",
+        "room_id": "",
+        "nickname": "雪糕"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "高源婧",
+        "room_id": "5776938",
+        "nickname": "小狐狸、二源"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "洪珮雲",
+        "room_id": "5771863",
+        "nickname": "珮爷"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "张怡",
+        "room_id": "5777238",
+        "nickname": "栗子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "姜杉",
+        "room_id": "5778533",
+        "nickname": "扇子、姜姜"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "宋思娴",
+        "room_id": "5774524",
+        "nickname": "笑笑"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "胡晓慧",
+        "room_id": "5779217",
+        "nickname": "包子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "潘瑛琪",
+        "room_id": "5777235",
+        "nickname": "星羽、羽羽"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "袁航",
+        "room_id": "5774519",
+        "nickname": "小熊猫、rich"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "徐佳丽",
+        "room_id": "",
+        "nickname": "大白、佳丽、好丽友"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "周怡",
+        "room_id": "5771860",
+        "nickname": "碎碎"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "宋雨珊",
+        "room_id": "5776953",
+        "nickname": "雨伞"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "谢蕾蕾",
+        "room_id": "5783256",
+        "nickname": "hana、蕾蕾"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "於佳怡",
+        "room_id": "5773799",
+        "nickname": "一一"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "阳青颖",
+        "room_id": "5779228",
+        "nickname": "夏天"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "严佼君",
+        "room_id": "5783217",
+        "nickname": "渊渊、小仓鼠"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "XII",
+        "sname": "邹佳佳",
+        "room_id": "",
+        "nickname": "小猪熊"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "田姝丽",
+        "room_id": "5771865",
+        "nickname": "甜甜、丽丽"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "熊素君",
+        "room_id": "5778537",
+        "nickname": "小熊"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "张文静",
+        "room_id": "5783221",
+        "nickname": "小苹果"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "曾艾佳",
+        "room_id": "5774530",
+        "nickname": "狮子、艾瑞狮"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "张凯祺",
+        "room_id": "5782035",
+        "nickname": "阿彪、阿Belle"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "张嘉予",
+        "room_id": "5770633",
+        "nickname": "沐沐"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "孙珍妮",
+        "room_id": "5777239",
+        "nickname": "珍妮"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "成珏",
+        "room_id": "5776958",
+        "nickname": "珏珏、蛋卷"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "林忆宁",
+        "room_id": "5771867",
+        "nickname": "一零"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "王金铭",
+        "room_id": "",
+        "nickname": "田田"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "吕梦莹",
+        "room_id": "5776960",
+        "nickname": "小笨蛋"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "李佳恩",
+        "room_id": "5783222",
+        "nickname": "恩宝、+n、格格恩"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "黄彤扬",
+        "room_id": "5782036",
+        "nickname": "UK"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "毕梦媛",
+        "room_id": "",
+        "nickname": "yume  小媛"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李想",
+        "room_id": "5780835",
+        "nickname": "想想"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李媛媛",
+        "room_id": "5777248",
+        "nickname": "布丁"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "林堃",
+        "room_id": "",
+        "nickname": "honey"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "陈姣荷",
+        "room_id": "5777246",
+        "nickname": "大杏仁"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "陈倩楠",
+        "room_id": "5770635",
+        "nickname": "小巨人"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "冯思佳",
+        "room_id": "5771876",
+        "nickname": "小北 元素"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "胡博文",
+        "room_id": "",
+        "nickname": "小纳米"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李诗彦",
+        "room_id": "",
+        "nickname": "rainy  尔康"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李梓",
+        "room_id": "5777247",
+        "nickname": "荔枝"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "周倩玉",
+        "room_id": "",
+        "nickname": "akuma"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "刘倩倩",
+        "room_id": "5758968",
+        "nickname": "倩倩、圈圈、677"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "左嘉欣",
+        "room_id": "5758969",
+        "nickname": "嘉欣、Pany"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "左婧媛",
+        "room_id": "5782038",
+        "nickname": "左左、左大侠"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "唐莉佳",
+        "room_id": "5771871",
+        "nickname": "丫丫、Olivia、士力架"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "肖文铃",
+        "room_id": "5777243",
+        "nickname": "小铃铛"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "洪静雯",
+        "room_id": "5776962",
+        "nickname": "奶盖、盖宝"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "卢静",
+        "room_id": "5777242",
+        "nickname": "卢不闹、总裁、小精灵"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "陈欣妤",
+        "room_id": "5771868",
+        "nickname": "金鱼"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "张琼予",
+        "room_id": "5783223",
+        "nickname": "rinako"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "罗寒月",
+        "room_id": "5758967",
+        "nickname": "小垣、寒月、暖日、tsuki"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "胡怡莹",
+        "room_id": "",
+        "nickname": "小巫婆、小核桃"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "陈楠茜",
+        "room_id": "5777241",
+        "nickname": "奶昔、魔法少女子茉茉、Nancy"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "刘胜男",
+        "room_id": "5776965",
+        "nickname": "小树"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "刘姝贤",
+        "room_id": "5771875",
+        "nickname": "猪仙"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "罗雪丽",
+        "room_id": "5773805",
+        "nickname": "Sherry,冰糖雪梨"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "马玉灵",
+        "room_id": "5780836",
+        "nickname": "玉子"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "青钰雯",
+        "room_id": "5758970",
+        "nickname": "鱼丸"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "孙姗",
+        "room_id": "",
+        "nickname": "33  姗宝"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "林溪荷",
+        "room_id": "5771874",
+        "nickname": "悠唐慈父"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "牛聪聪",
+        "room_id": "",
+        "nickname": "耳总"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "苏杉杉",
+        "room_id": "5776964",
+        "nickname": "Air  33"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "文妍",
+        "room_id": "",
+        "nickname": "潇潇  小金鱼 文言文"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "冼燊楠",
+        "room_id": "5771872",
+        "nickname": "usagi、果舞"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "郑丹妮",
+        "room_id": "5776963",
+        "nickname": "蒸蛋泥、Kimmy、懒蛋蛋"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "熊心瑶",
+        "room_id": "5771873",
+        "nickname": "心瑶、Haruka、苞谷"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "陈慧婧",
+        "room_id": "5776961",
+        "nickname": "魔婧、猫玖"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "冯嘉希",
+        "room_id": "5779220",
+        "nickname": "希仔、小希"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "孙馨",
+        "room_id": "5771870",
+        "nickname": "小老虎"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "刘力菲",
+        "room_id": "5770634",
+        "nickname": "flyfly、米菲、Miffy"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "夏越",
+        "room_id": "5758971",
+        "nickname": "夏夏 橙橙"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "顼凘炀",
+        "room_id": "5780839",
+        "nickname": "小星"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "郑一凡",
+        "room_id": "5777250",
+        "nickname": "麻球  琉媛"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "易妍倩",
+        "room_id": "",
+        "nickname": "aiko酱  爱酱"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "张梦慧",
+        "room_id": "5782039",
+        "nickname": "芝麻"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "张笑盈",
+        "room_id": "5780837",
+        "nickname": "kona"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "葛司琪",
+        "room_id": "5780843",
+        "nickname": "葛格 鲜鲜"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "任心怡",
+        "room_id": "5771882",
+        "nickname": "柚柚 怡夏子"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "叶苗苗",
+        "room_id": "5771885",
+        "nickname": "喵喵 猫猫 甜心教主"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "张韩紫陌",
+        "room_id": "5782041",
+        "nickname": "yukari"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "李泓瑶",
+        "room_id": "5777254",
+        "nickname": "蛟娇 焦糖"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "孙语姗",
+        "room_id": "5776969",
+        "nickname": "yokie"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "杨晔",
+        "room_id": "5777257",
+        "nickname": "社长 二毛 日华"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "黄恩茹",
+        "room_id": "5770638",
+        "nickname": "ruru"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "吴月黎",
+        "room_id": "",
+        "nickname": "蛋蛋"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李娜",
+        "room_id": "",
+        "nickname": "牙妹"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "杨一帆",
+        "room_id": "5773820",
+        "nickname": "木易"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "房蕾",
+        "room_id": "5777253",
+        "nickname": "房总 蕾宝"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "石羽莎",
+        "room_id": "5777256",
+        "nickname": "暖暖 奶茶"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "单习文",
+        "room_id": "",
+        "nickname": "茜茜"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "王雨煊",
+        "room_id": "5783234",
+        "nickname": "芋圆"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "陈雅钰",
+        "room_id": "5758973",
+        "nickname": "多肉"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "许婉玉",
+        "room_id": "5783244",
+        "nickname": "猫丸儿 小猪肉"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "祁静",
+        "room_id": "5777252",
+        "nickname": "sky"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "曾晓雯",
+        "room_id": "5771879",
+        "nickname": "雯子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "潘燕琦",
+        "room_id": "5780841",
+        "nickname": "S 、Pinky"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "徐真",
+        "room_id": "",
+        "nickname": "余点"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "刘菊子",
+        "room_id": "5779222",
+        "nickname": "橘子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "X",
+        "sname": "徐诗琪",
+        "room_id": "5771880",
+        "nickname": "小七"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "吕一",
+        "room_id": "5758972",
+        "nickname": "番茄、口口一、吕二"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "江真仪",
+        "room_id": "5773813",
+        "nickname": "百合子 、 yuriko"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "袁一琦",
+        "room_id": "5776968",
+        "nickname": "Yoki"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "SII",
+        "sname": "赵韩倩",
+        "room_id": "",
+        "nickname": "大钳子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "张雅梦",
+        "room_id": "",
+        "nickname": "丫丫"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "刘瀛",
+        "room_id": "5770636",
+        "nickname": "yooyoung"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "姚祎纯",
+        "room_id": "5783243",
+        "nickname": "纯纯"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "李伊虹",
+        "room_id": "5783236",
+        "nickname": "橙妹er、雷猴"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "黄黎蓉",
+        "room_id": "5771886",
+        "nickname": "黎蓉、莲蓉蛋黄"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "向芸",
+        "room_id": "",
+        "nickname": "小软、Sharen"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "刘嘉怡",
+        "room_id": "",
+        "nickname": "七妹、6+1"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "王炯义",
+        "room_id": "5783237",
+        "nickname": "囧囧"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "王偲越",
+        "room_id": "5773823",
+        "nickname": "四月、菜菜"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "农燕萍",
+        "room_id": "5770641",
+        "nickname": "奶瓶、燕燕"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "陈梓荧",
+        "room_id": "5758974",
+        "nickname": "Pica、闪闪"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "龙亦瑞",
+        "room_id": "5770640",
+        "nickname": "瑞子、大王"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "杨媛媛",
+        "room_id": "5776973",
+        "nickname": "杨导、元宝、circle"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "杜秋霖",
+        "room_id": "5773822",
+        "nickname": "蚯蚓、阿喵"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "王翠菲",
+        "room_id": "5770642",
+        "nickname": "加菲、Aurora"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "陈桂君",
+        "room_id": "5779225",
+        "nickname": "阿邪、邪酱"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "王盈",
+        "room_id": "",
+        "nickname": "王爷、YY"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "于珊珊",
+        "room_id": "5783240",
+        "nickname": "Yui、鱼子酱"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "杨可璐",
+        "room_id": "5783238",
+        "nickname": "羊驼、各各"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "王秭歆",
+        "room_id": "5779226",
+        "nickname": "小王子、娉娉"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "张心雨",
+        "room_id": "",
+        "nickname": "小雨"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "代玲",
+        "room_id": "5778538",
+        "nickname": "Darling、呆呆"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "赵翊民",
+        "room_id": "",
+        "nickname": "猫猫、sherlyn"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "赵欣雨",
+        "room_id": "5776974",
+        "nickname": "candy"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "冯译莹",
+        "room_id": "7986267",
+        "nickname": "小二"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "赖梓惜",
+        "room_id": "7987397",
+        "nickname": "赖赖、糯米、nono"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "秦玺",
+        "room_id": "7990092",
+        "nickname": "七喜"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "南翎璞",
+        "room_id": "",
+        "nickname": "楠楠"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "韩家乐",
+        "room_id": "7981599",
+        "nickname": "可乐、乐乐、热热"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "杨允涵",
+        "room_id": "8016995",
+        "nickname": "闪闪"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "赵佳蕊",
+        "room_id": "7987195",
+        "nickname": "蕊妹"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "刘娜",
+        "room_id": "8042233",
+        "nickname": "辣辣"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "孙敏",
+        "room_id": "7964959",
+        "nickname": "小敏"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "关思雨",
+        "room_id": "8020430",
+        "nickname": "酒窝、大驴"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "李慧",
+        "room_id": "8014885",
+        "nickname": "李晴天、兔牙"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "朱燕",
+        "room_id": "",
+        "nickname": "老干部"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "卢天惠",
+        "room_id": "7975343",
+        "nickname": "肥肥"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "陈婧文",
+        "room_id": "",
+        "nickname": "昱子、kana"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "刘娇",
+        "room_id": "7991480",
+        "nickname": "椒椒"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "王诗蒙",
+        "room_id": "7969870",
+        "nickname": "懵懵"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "付紫琪",
+        "room_id": "7976494",
+        "nickname": "璃笙"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "徐静妍",
+        "room_id": "",
+        "nickname": "妍仔、啊妍"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "曲悦萌",
+        "room_id": "8150670",
+        "nickname": "萌萌哒  卡萌"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "张爱静",
+        "room_id": "8163318",
+        "nickname": "饼饼"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "寇承希",
+        "room_id": "",
+        "nickname": "KoKo，希希"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "徐斐然",
+        "room_id": "8164534",
+        "nickname": "喧喧"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "李熙凝",
+        "room_id": "8154548",
+        "nickname": "喵"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "董思佳",
+        "room_id": "7900792",
+        "nickname": "小狮子"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "李晴",
+        "room_id": "8150116",
+        "nickname": "晴天  晴晴"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "刘静晗",
+        "room_id": "8165372",
+        "nickname": "花儿"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "张云梦",
+        "room_id": "8165375",
+        "nickname": "梦梦"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "任雨情",
+        "room_id": "8164514",
+        "nickname": "人元气"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "杨肖",
+        "room_id": "8158633",
+        "nickname": "肖肖"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "郑洁丽",
+        "room_id": "8200539",
+        "nickname": "朕  腻腻  DJ 小丽"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "高志娴",
+        "room_id": "7906419",
+        "nickname": "镜子"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "张幼柠",
+        "room_id": "",
+        "nickname": "柠檬 阿爸 苗苗"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "张儒轶",
+        "room_id": "8171412",
+        "nickname": "大西瓜、瓜瓜"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "张雨晴",
+        "room_id": "",
+        "nickname": "泡泡"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "汪慕远",
+        "room_id": "18710871",
+        "nickname": "小妖"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "伍寒琪",
+        "room_id": "18872373",
+        "nickname": "五七七"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "李泽亚",
+        "room_id": "18874574",
+        "nickname": "aya、卤蛋"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "艾芷亦",
+        "room_id": "18925515",
+        "nickname": "艾玛"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "李恩锐",
+        "room_id": "18876868",
+        "nickname": "恩锐、RIO"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "邓倩",
+        "room_id": "19006904",
+        "nickname": "倩姐"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "林芝",
+        "room_id": "18712468",
+        "nickname": "007、木木茜"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "预备生",
+        "sname": "周桐冉",
+        "room_id": "25549423",
+        "nickname": "铜锣烧、Fos磷"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "吴晶晶",
+        "room_id": "18874489",
+        "nickname": "小猪仔、晶晶"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "李瑜璇",
+        "room_id": "18926936",
+        "nickname": "鲤鱼"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "吴学雨",
+        "room_id": "19308165",
+        "nickname": "小苹果、果果"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "毕瑞珊",
+        "room_id": "18709668",
+        "nickname": "小珊子、melody"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "章宇阳",
+        "room_id": "18872322",
+        "nickname": "cheese、奶酪"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "马凡",
+        "room_id": "18054323",
+        "nickname": "小黑"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "金锣赛",
+        "room_id": "8967027",
+        "nickname": "赛赛 小田螺 小金猪"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "乔钰珂",
+        "room_id": "8961080",
+        "nickname": "乔儿 小可乐"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "毛其羽",
+        "room_id": "9046720",
+        "nickname": "猫吃鱼，猫仔，小笼猫"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李烨",
+        "room_id": "",
+        "nickname": "火华宝，小叶子，小草莓"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "赵笛儿",
+        "room_id": "9106599",
+        "nickname": "笛儿 Dear"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "李沐遥",
+        "room_id": "",
+        "nickname": "木子，娘娘"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "孙晓艳",
+        "room_id": "9021937",
+        "nickname": "小眼，小幸运"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "刘崇恬",
+        "room_id": "9066006",
+        "nickname": "恬恬 Tina酱"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "徐静",
+        "room_id": "",
+        "nickname": "小青蛙"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "郑心雨",
+        "room_id": "",
+        "nickname": "小雨毛 心雨"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "刘一菲",
+        "room_id": "8960034",
+        "nickname": "一 一"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "兰昊",
+        "room_id": "8951607",
+        "nickname": "Alan、阿兰"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "黄子璇",
+        "room_id": "9108720",
+        "nickname": "39"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "郑依灵",
+        "room_id": "",
+        "nickname": "10"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "胡丽芝",
+        "room_id": "9046692",
+        "nickname": "梨汁 瑶瑶"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "金莹玥",
+        "room_id": "9225254",
+        "nickname": "金兔牙"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "逯芳竹",
+        "room_id": "9178937",
+        "nickname": "逯宝、小竹子"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "唐诗怡",
+        "room_id": "9335706",
+        "nickname": "糖宝，葫芦糖，十一"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "谢艾琳",
+        "room_id": "9339220",
+        "nickname": "420、Irene"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "郑悦",
+        "room_id": "9333412",
+        "nickname": "Mila、悦悦"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "王菲妍",
+        "room_id": "9186193",
+        "nickname": "七七、柒宝"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "高雪逸",
+        "room_id": "9338140",
+        "nickname": "果核"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "陈佳莹",
+        "room_id": "9342446",
+        "nickname": "小家伙"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "陶波尔",
+        "room_id": "9125456",
+        "nickname": "兮落"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "郑诗琪",
+        "room_id": "9164598",
+        "nickname": "糖糖"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "高崇",
+        "room_id": "9177989",
+        "nickname": "多多"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "张秋怡",
+        "room_id": "9342380",
+        "nickname": "Aki、乔伊、秋秋"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "朱怡欣",
+        "room_id": "9340808",
+        "nickname": "GG.Bond、朱朱、11、棉花糖"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "程一心",
+        "room_id": "9343067",
+        "nickname": "大猩猩，小心"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "方晓瑜",
+        "room_id": "9341101",
+        "nickname": "小鱼 晓晓"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "郭倩芸",
+        "room_id": "9011537",
+        "nickname": "小哥哥"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "陈俊宏",
+        "room_id": "9337363",
+        "nickname": "Aoi、夜喵、喵"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "叶锦童",
+        "room_id": "9049184",
+        "nickname": "童童、锦小童"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "菅瑞静",
+        "room_id": "9190558",
+        "nickname": "尖尖 、jerry"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "臧聪",
+        "room_id": "9196677",
+        "nickname": "聪聪"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "陈奕君",
+        "room_id": "9219636",
+        "nickname": "夏阳"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "赖俊亦",
+        "room_id": "9332797",
+        "nickname": "小懒 小赖"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "刘小末",
+        "room_id": "",
+        "nickname": "小末，毛豆"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "方诗涵",
+        "room_id": "9167795",
+        "nickname": "小葵、绿绿"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "陈乐添",
+        "room_id": "",
+        "nickname": "大添添、小仙美子"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "张羽涵",
+        "room_id": "9175616",
+        "nickname": "银子"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "龚梦婷",
+        "room_id": "9180545",
+        "nickname": "米拉"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "梁可",
+        "room_id": "9335784",
+        "nickname": "可乐、可可"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "沈小爱",
+        "room_id": "9255077",
+        "nickname": "兔子、大爱"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "林歆源",
+        "room_id": "9339537",
+        "nickname": "木里"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "章泽婷",
+        "room_id": "",
+        "nickname": "曦子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "预备生",
+        "sname": "孙亚萍",
+        "room_id": "11190812",
+        "nickname": "小螃蟹"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "葛佳慧",
+        "room_id": "",
+        "nickname": "小葛、葛葛、Julie"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "王奕",
+        "room_id": "17877365",
+        "nickname": "一一"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "姜涵",
+        "room_id": "17928298",
+        "nickname": "涵涵"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "熊沁娴",
+        "room_id": "17870659",
+        "nickname": "熊爷、熊喵、咸咸"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "林舒晴",
+        "room_id": "18864508",
+        "nickname": "甜甜、baby"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "孟玥",
+        "room_id": "18933202",
+        "nickname": "肉肉"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "王梦竹",
+        "room_id": "18869478",
+        "nickname": "盟主、崔崔"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "田祯臻",
+        "room_id": "19174730",
+        "nickname": "二蛙、一寒"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "夏文倩",
+        "room_id": "18920665",
+        "nickname": "快快"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "王娱博",
+        "room_id": "18931483",
+        "nickname": "灯灯、博博、博子、鸭脖"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "G",
+        "sname": "黄楚茵",
+        "room_id": "18721105",
+        "nickname": "奶黄包、央央"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "NIII",
+        "sname": "吴羽霏",
+        "room_id": "18709707",
+        "nickname": "无语飞"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "赵泽慧",
+        "room_id": "18915966",
+        "nickname": "慧慧、泽慧、慧儿、酸奶"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "何梦瑶",
+        "room_id": "18717305",
+        "nickname": "kamuyou、摇一摇、梦瑶"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "冉蔚",
+        "room_id": "18931469",
+        "nickname": "软软、蔚蔚"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "韩林芹",
+        "room_id": "18878868",
+        "nickname": "芹菜"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "曾佳",
+        "room_id": "18868708",
+        "nickname": "佳佳、sora"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "谯玉珍",
+        "room_id": "18876438",
+        "nickname": "小黑猫、点点"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "李姗姗",
+        "room_id": "18863978",
+        "nickname": "册子、Satsuko"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "左欣",
+        "room_id": "18865486",
+        "nickname": "欣儿、小欣、洋芋"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "周源",
+        "room_id": "18912170",
+        "nickname": "琳烯"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "程子钰",
+        "room_id": "18724509",
+        "nickname": "鱼崽"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "黄嘉怡",
+        "room_id": "22595567",
+        "nickname": "苹果"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "相望",
+        "room_id": "19821117",
+        "nickname": "兔子、小小酥"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "余芷媛",
+        "room_id": "18696906",
+        "nickname": "芷媛"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "邓惠恩",
+        "room_id": "18716764",
+        "nickname": "酥饼"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "罗可嘉",
+        "room_id": "18716506",
+        "nickname": "可嘉、小安"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "叶晓梦",
+        "room_id": "18713709",
+        "nickname": "big梦、sunwer"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "Z",
+        "sname": "梁婉琳",
+        "room_id": "18706972",
+        "nickname": "晚晚、言言子、Ailsa"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "郝婧怡",
+        "room_id": "18929102",
+        "nickname": "静静、果酱"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "雷宇霄",
+        "room_id": "18925326",
+        "nickname": "霄霄、霄酱"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "毛译晗",
+        "room_id": "18931527",
+        "nickname": "小毛、小毛毛"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "徐楚雯",
+        "room_id": "25646704",
+        "nickname": "蛙蛙、蠢蠢、雯雯、小翠"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "预备生",
+        "sname": "戴紫薇",
+        "room_id": "25549446",
+        "nickname": "嘴嘴、紫薇、Davy"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "黄琬璎",
+        "room_id": "18936316",
+        "nickname": "樱桃小丸子、小樱桃、车厘子、撒库"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "田倩兰",
+        "room_id": "18866539",
+        "nickname": "田田、倩倩、兰兰"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "陶菀瑞",
+        "room_id": "18863833",
+        "nickname": "魔王、Neko"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "魏小燕",
+        "room_id": "25646712",
+        "nickname": "小燕子、小卷毛"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "柏欣妤",
+        "room_id": "18874571",
+        "nickname": "波多野卷菜花、白白"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "符冰冰",
+        "room_id": "18702980",
+        "nickname": "Bubu、冰冰"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "预备生",
+        "sname": "余梦露",
+        "room_id": "25559669",
+        "nickname": "杏仁露、小小鱼"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "K",
+        "sname": "樊曦月",
+        "room_id": "",
+        "nickname": "安妮、Anne"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "程戈",
+        "room_id": "19812475",
+        "nickname": "程程、白鸽"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "李彬玉",
+        "room_id": "19258587",
+        "nickname": "木子、驴驴"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "唐霖",
+        "room_id": "18932438",
+        "nickname": "唐小猪、猪猪侠"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "SIII",
+        "sname": "赵天杨",
+        "room_id": "19373976",
+        "nickname": "崽崽、货货"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "J",
+        "sname": "何阳青青",
+        "room_id": "19412890",
+        "nickname": "小青十二月"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "周洁艺",
+        "room_id": "21540553",
+        "nickname": "树下、树树、麻雀"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李宗颐",
+        "room_id": "20899904",
+        "nickname": "咩咩"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "金鑫",
+        "room_id": "20899897",
+        "nickname": "多多"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "E",
+        "sname": "李娜",
+        "room_id": "20939691",
+        "nickname": "糖豆"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "舒湘",
+        "room_id": "21519222",
+        "nickname": "Mint、湘湘"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "王梦媛",
+        "room_id": "21536978",
+        "nickname": "沧姐、沧子"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "李晨曦",
+        "room_id": "21673709",
+        "nickname": "抖抖"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "肖文静",
+        "room_id": "21545705",
+        "nickname": "茶搽"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "徐佳音",
+        "room_id": "21664007",
+        "nickname": "喑、喑爷、小脸"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "张紫颖",
+        "room_id": "21529013",
+        "nickname": "颖妹、影子"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "B",
+        "sname": "杨鑫",
+        "room_id": "21329021",
+        "nickname": "Jojo"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "朱敏",
+        "room_id": "22674618",
+        "nickname": "小初、敏敏、小猪"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "王雨兰",
+        "room_id": "22537562",
+        "nickname": "楠楠"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "王嘉瑜",
+        "room_id": "22576259",
+        "nickname": "小鱼、瑜小瑜"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "陈俊羽",
+        "room_id": "22634320",
+        "nickname": "冒冒、羽妹"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "李苏洪",
+        "room_id": "22664252",
+        "nickname": "SUSU、小小SU"
+    },
+    {
+        "gname": "SHY48",
+        "tname": "HIII",
+        "sname": "刁滢",
+        "room_id": "22674623",
+        "nickname": "樱桃"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "陈盼",
+        "room_id": "25309899",
+        "nickname": "盼盼"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "李玉倩",
+        "room_id": "25359178",
+        "nickname": "萌萌"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "王欣颜甜甜",
+        "room_id": "25309839",
+        "nickname": "甜甜"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "朱小丹",
+        "room_id": "25289897",
+        "nickname": "毛蛋"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "张馨月",
+        "room_id": "25454085",
+        "nickname": "宝半"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "杨美琪",
+        "room_id": "25510272",
+        "nickname": "琪琪"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "李美琪",
+        "room_id": "25493049",
+        "nickname": "大美琪"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "李星羽",
+        "room_id": "25482881",
+        "nickname": "抛抛"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "杨令仪",
+        "room_id": "25299785",
+        "nickname": "01"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "张茜",
+        "room_id": "25416425",
+        "nickname": "西子"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "王溪源",
+        "room_id": "25492977",
+        "nickname": "幻儿"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "周诗雨",
+        "room_id": "25309902",
+        "nickname": "周周"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "C",
+        "sname": "徐慧玲",
+        "room_id": "25723068",
+        "nickname": "小玲玲"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "预备生",
+        "sname": "邹冰清",
+        "room_id": "",
+        "nickname": "清酱、ZOE、桂芬"
+    },
+    {
+        "gname": "CKG48",
+        "tname": "预备生",
+        "sname": "吴晓桐",
+        "room_id": "",
+        "nickname": "小团团"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "周湘",
+        "room_id": "24813484",
+        "nickname": "香菜"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "李清雨",
+        "room_id": "24679663",
+        "nickname": "金克丝"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "彭嘉敏",
+        "room_id": "24890786",
+        "nickname": "彭彭"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "杨宇馨",
+        "room_id": "24795114",
+        "nickname": "馨宝、妮妮、不不、咩咩"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "楼澍",
+        "room_id": "24767422",
+        "nickname": "OO"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "张丹丹",
+        "room_id": "24870598",
+        "nickname": "dan"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "付奕萱",
+        "room_id": "24737757",
+        "nickname": "fufu"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "曲美霖",
+        "room_id": "24852183",
+        "nickname": "酥酥、Q酱"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "高蔚然",
+        "room_id": "24679646",
+        "nickname": "艾丽、艾琳娜"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "熊鑫",
+        "room_id": "24737771",
+        "nickname": "Au、三斤"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "梁娇",
+        "room_id": "",
+        "nickname": "大乔"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "谢菲菲",
+        "room_id": "",
+        "nickname": "茄子、麋鹿"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "郭铱宁",
+        "room_id": "",
+        "nickname": "铱一"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "门秀天",
+        "room_id": "",
+        "nickname": "露比"
+    },
+    {
+        "gname": "GNZ48",
+        "tname": "预备生",
+        "sname": "梁乔",
+        "room_id": "",
+        "nickname": "小乔"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "HII",
+        "sname": "戚予珠",
+        "room_id": "26659427",
+        "nickname": "七七"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "李丽满",
+        "room_id": "25406791",
+        "nickname": "小满"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "程宇璐",
+        "room_id": "25453851",
+        "nickname": "小璐、妹妹、咕噜"
+    },
+    {
+        "gname": "BEJ48",
+        "tname": "预备生",
+        "sname": "任蔓琳",
+        "room_id": "25606534",
+        "nickname": "麦芽"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "Ft",
+        "sname": "张敏淇",
+        "room_id": "",
+        "nickname": "球球、阿球"
+    },
+    {
+        "gname": "SNH48",
+        "tname": "NII",
+        "sname": "许逸",
+        "room_id": "5777251",
+        "nickname": "小言"
+    }
+]
+
+Process finished with exit code 0
