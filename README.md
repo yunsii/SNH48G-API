@@ -7,8 +7,9 @@ API中**输入参数**使用变量名占位：
 ```
 {name}
 ```
-
 相关隐私信息中**数字**按位取1：1990 -> 1111；**字符串**统一用'xxxxxx'替换。
+
+添加API测试方法[request_test.py](https://github.com/theprimone/SNH48G-API/blob/master/request_test.py)，基于自写简单工具包[theprimone.py](https://github.com/theprimone/theprimone/blob/master/theprimone.py)
 
 ## room-id
 
