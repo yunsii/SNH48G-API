@@ -1,5 +1,5 @@
 # SNH48G-API
-收集整理关于SNH48Group的API，包括口袋48，官网，微博等。
+收集整理关于SNH48Group的API，包括口袋48，官网，微博等:heart:
 
 ## 相关说明
 
@@ -38,6 +38,4 @@ API中**输入参数**使用变量名占位：
 9. [活动信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/event.md)
 
 #### 2中SNH48所有成员基本信息不包含Ft成员
-
-
 
