@@ -37,5 +37,6 @@ API中**输入参数**使用变量名占位：
 8. [EP信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/ep.md)
 9. [活动信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/event.md)
 
-#### 2中SNH48所有成员基本信息不包含Ft成员
+### 备注
+1. 已知**SNH48成员信息**中所有成员基本信息不包含Ft成员
 
