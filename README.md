@@ -25,6 +25,7 @@ API中**输入参数**使用变量名占位：
 3. [成员直播API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-live.md)
 4. [直播详情API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/live-detail.md)
 5. [成员房间消息API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-room-message.md)
+6. [打卡API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/check-in.md)
 
 ### 官网（OS - Official Site）
 1. [条件查询成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/members.md)
