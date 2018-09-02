@@ -359,11 +359,15 @@ roomId | int/str | 成员房间id | Y |  |
 
 已知**messageObject**:
 
-序号 | 名称 | 说明
----- | --- | ----
-1 | faipaiText | 翻牌
-2 | text | 文本消息    
-3 | image | 图片分享
-4 | idolFlip | 提问信息翻牌，仅直接显示成员回复
-5 | live | 视频直播
-6 | diantai | 电台直播
+| 序号 | 名称 | 说明 |
+| ---- | --- | ---- |
+| 1 | faipaiText | 翻牌 |
+| 2 | text | 文本消息 | 
+| 3 | image | 图片分享 |
+| 4 | idolFlip | 提问信息翻牌，仅直接显示成员回复 |
+| 5 | live | 视频直播 |
+| 6 | diantai | 电台直播 |
+
+关于**role**（猜测）:
+
+**senderRole** == 1 表示房主（成员），在**extInfo**中，**role** == 0 时，表示另一成员的留言；**role** == 2 时，表示成员的留言。
