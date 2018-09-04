@@ -4,6 +4,7 @@
         "tname": "Ft",
         "sname": "马凡",
         "room_id": "18054323",
+        "member_id": "606343",
         "nickname": "小黑"
     },
     {
@@ -11,6 +12,7 @@
         "tname": "Ft",
         "sname": "陈盼",
         "room_id": "25309899",
+        "member_id": "677395",
         "nickname": "盼盼"
     },
     {
@@ -18,6 +20,7 @@
         "tname": "Ft",
         "sname": "李玉倩",
         "room_id": "25359178",
+        "member_id": "677398",
         "nickname": "萌萌"
     },
     {
@@ -25,6 +28,7 @@
         "tname": "Ft",
         "sname": "王欣颜甜甜",
         "room_id": "25309839",
+        "member_id": "677400",
         "nickname": "甜甜"
     },
     {
@@ -32,6 +36,7 @@
         "tname": "Ft",
         "sname": "朱小丹",
         "room_id": "25289897",
+        "member_id": "677405",
         "nickname": "毛蛋"
     },
     {
@@ -39,6 +44,7 @@
         "tname": "Ft",
         "sname": "张馨月",
         "room_id": "25454085",
+        "member_id": "677406",
         "nickname": "宝半"
     },
     {
@@ -46,6 +52,7 @@
         "tname": "Ft",
         "sname": "杨美琪",
         "room_id": "25510272",
+        "member_id": "677402",
         "nickname": "琪琪"
     },
     {
@@ -53,6 +60,7 @@
         "tname": "Ft",
         "sname": "李美琪",
         "room_id": "25493049",
+        "member_id": "677396",
         "nickname": "大美琪"
     },
     {
@@ -60,6 +68,7 @@
         "tname": "Ft",
         "sname": "李星羽",
         "room_id": "25482881",
+        "member_id": "677397",
         "nickname": "抛抛"
     },
     {
@@ -67,6 +76,7 @@
         "tname": "Ft",
         "sname": "杨令仪",
         "room_id": "25299785",
+        "member_id": "677401",
         "nickname": "01"
     },
     {
@@ -74,6 +84,7 @@
         "tname": "Ft",
         "sname": "张茜",
         "room_id": "25416425",
+        "member_id": "677403",
         "nickname": "西子"
     },
     {
@@ -81,6 +92,7 @@
         "tname": "Ft",
         "sname": "王溪源",
         "room_id": "25492977",
+        "member_id": "677399",
         "nickname": "幻儿"
     },
     {
@@ -88,6 +100,7 @@
         "tname": "Ft",
         "sname": "周诗雨",
         "room_id": "25309902",
+        "member_id": "677404",
         "nickname": "周周"
     },
     {
@@ -95,6 +108,7 @@
         "tname": "Ft",
         "sname": "张敏淇",
         "room_id": "",
+        "member_id": "",
         "nickname": "球球、阿球"
     },
     {
@@ -102,6 +116,7 @@
         "tname": "HII",
         "sname": "林思意",
         "room_id": "5774511",
+        "member_id": "24",
         "nickname": "小四"
     },
     {
@@ -109,6 +124,7 @@
         "tname": "HII",
         "sname": "李艺彤",
         "room_id": "5771855",
+        "member_id": "16",
         "nickname": "发卡"
     },
     {
@@ -116,6 +132,7 @@
         "tname": "HII",
         "sname": "万丽娜",
         "room_id": "5776899",
+        "member_id": "25",
         "nickname": "娜娜"
     },
     {
@@ -123,6 +140,7 @@
         "tname": "HII",
         "sname": "陈怡馨",
         "room_id": "",
+        "member_id": "",
         "nickname": "嘟嘟"
     },
     {
@@ -130,6 +148,7 @@
         "tname": "HII",
         "sname": "杨惠婷",
         "room_id": "5776912",
+        "member_id": "5567",
         "nickname": "Miyo"
     },
     {
@@ -137,6 +156,7 @@
         "tname": "HII",
         "sname": "许杨玉琢",
         "room_id": "5783159",
+        "member_id": "5566",
         "nickname": "绵羊，步美"
     },
     {
@@ -144,6 +164,7 @@
         "tname": "HII",
         "sname": "张昕",
         "room_id": "5776908",
+        "member_id": "2508",
         "nickname": "紫菜"
     },
     {
@@ -151,6 +172,7 @@
         "tname": "HII",
         "sname": "徐晗",
         "room_id": "5773753",
+        "member_id": "2470",
         "nickname": "小乌龟"
     },
     {
@@ -158,6 +180,7 @@
         "tname": "HII",
         "sname": "林楠",
         "room_id": "5776909",
+        "member_id": "5562",
         "nickname": "luna"
     },
     {
@@ -165,6 +188,7 @@
         "tname": "HII",
         "sname": "费沁源",
         "room_id": "5782033",
+        "member_id": "63555",
         "nickname": "圆圆"
     },
     {
@@ -172,6 +196,7 @@
         "tname": "HII",
         "sname": "蒋舒婷",
         "room_id": "5778534",
+        "member_id": "63561",
         "nickname": "猪蹄"
     },
     {
@@ -179,6 +204,7 @@
         "tname": "HII",
         "sname": "沈梦瑶",
         "room_id": "5773766",
+        "member_id": "49005",
         "nickname": "神喵、瑶瑶"
     },
     {
@@ -186,6 +212,7 @@
         "tname": "HII",
         "sname": "洪珮雲",
         "room_id": "5771863",
+        "member_id": "63558",
         "nickname": "珮爷"
     },
     {
@@ -193,6 +220,7 @@
         "tname": "HII",
         "sname": "姜杉",
         "room_id": "5778533",
+        "member_id": "63560",
         "nickname": "扇子、姜姜"
     },
     {
@@ -200,6 +228,7 @@
         "tname": "HII",
         "sname": "袁航",
         "room_id": "5774519",
+        "member_id": "49007",
         "nickname": "小熊猫、rich"
     },
     {
@@ -207,6 +236,7 @@
         "tname": "HII",
         "sname": "宋雨珊",
         "room_id": "5776953",
+        "member_id": "63570",
         "nickname": "雨伞"
     },
     {
@@ -214,6 +244,7 @@
         "tname": "HII",
         "sname": "於佳怡",
         "room_id": "5773799",
+        "member_id": "63575",
         "nickname": "一一"
     },
     {
@@ -221,6 +252,7 @@
         "tname": "HII",
         "sname": "孙珍妮",
         "room_id": "5777239",
+        "member_id": "286977",
         "nickname": "珍妮"
     },
     {
@@ -228,6 +260,7 @@
         "tname": "HII",
         "sname": "李佳恩",
         "room_id": "5783222",
+        "member_id": "286983",
         "nickname": "恩宝、+n、格格恩"
     },
     {
@@ -235,6 +268,7 @@
         "tname": "HII",
         "sname": "曾晓雯",
         "room_id": "5771879",
+        "member_id": "399673",
         "nickname": "雯子"
     },
     {
@@ -242,6 +276,7 @@
         "tname": "HII",
         "sname": "袁一琦",
         "room_id": "5776968",
+        "member_id": "399669",
         "nickname": "Yoki"
     },
     {
@@ -249,6 +284,7 @@
         "tname": "HII",
         "sname": "王奕",
         "room_id": "17877365",
+        "member_id": "594003",
         "nickname": "一一"
     },
     {
@@ -256,6 +292,7 @@
         "tname": "HII",
         "sname": "姜涵",
         "room_id": "17928298",
+        "member_id": "594002",
         "nickname": "涵涵"
     },
     {
@@ -263,6 +300,7 @@
         "tname": "HII",
         "sname": "熊沁娴",
         "room_id": "17870659",
+        "member_id": "594005",
         "nickname": "熊爷、熊喵、咸咸"
     },
     {
@@ -270,6 +308,7 @@
         "tname": "HII",
         "sname": "戚予珠",
         "room_id": "26659427",
+        "member_id": "820988",
         "nickname": "七七"
     },
     {
@@ -277,6 +316,7 @@
         "tname": "NII",
         "sname": "黄婷婷",
         "room_id": "5776897",
+        "member_id": "22",
         "nickname": "阔太太"
     },
     {
@@ -284,6 +324,7 @@
         "tname": "NII",
         "sname": "赵粤",
         "room_id": "5777230",
+        "member_id": "27",
         "nickname": "玉米、会长、广东仔"
     },
     {
@@ -291,6 +332,7 @@
         "tname": "NII",
         "sname": "陈佳莹",
         "room_id": "5780789",
+        "member_id": "4",
         "nickname": "呵呵姐"
     },
     {
@@ -298,6 +340,7 @@
         "tname": "NII",
         "sname": "曾艳芬",
         "room_id": "",
+        "member_id": "",
         "nickname": "撸力"
     },
     {
@@ -305,6 +348,7 @@
         "tname": "NII",
         "sname": "陆婷",
         "room_id": "5773750",
+        "member_id": "34",
         "nickname": "大哥"
     },
     {
@@ -312,6 +356,7 @@
         "tname": "NII",
         "sname": "董艳芸",
         "room_id": "",
+        "member_id": "",
         "nickname": "芸子"
     },
     {
@@ -319,6 +364,7 @@
         "tname": "NII",
         "sname": "唐安琪",
         "room_id": "",
+        "member_id": "",
         "nickname": "小天使、安琪"
     },
     {
@@ -326,6 +372,7 @@
         "tname": "NII",
         "sname": "易嘉爱",
         "room_id": "5776904",
+        "member_id": "33",
         "nickname": "守年"
     },
     {
@@ -333,6 +380,7 @@
         "tname": "NII",
         "sname": "冯薪朵",
         "room_id": "5779207",
+        "member_id": "7",
         "nickname": "那那西"
     },
     {
@@ -340,6 +388,7 @@
         "tname": "NII",
         "sname": "何晓玉",
         "room_id": "5773743",
+        "member_id": "10",
         "nickname": "晓晓、小玉"
     },
     {
@@ -347,6 +396,7 @@
         "tname": "NII",
         "sname": "孟玥",
         "room_id": "",
+        "member_id": "",
         "nickname": "船长"
     },
     {
@@ -354,6 +404,7 @@
         "tname": "NII",
         "sname": "龚诗淇",
         "room_id": "",
+        "member_id": "",
         "nickname": "17"
     },
     {
@@ -361,6 +412,7 @@
         "tname": "NII",
         "sname": "陈问言",
         "room_id": "5774518",
+        "member_id": "68",
         "nickname": "豆芽"
     },
     {
@@ -368,6 +420,7 @@
         "tname": "NII",
         "sname": "张雨鑫",
         "room_id": "5782031",
+        "member_id": "5574",
         "nickname": "叉叉"
     },
     {
@@ -375,6 +428,7 @@
         "tname": "NII",
         "sname": "郝婉晴",
         "room_id": "5778526",
+        "member_id": "32",
         "nickname": "晴格格"
     },
     {
@@ -382,6 +436,7 @@
         "tname": "NII",
         "sname": "刘佩鑫",
         "room_id": "5770619",
+        "member_id": "46",
         "nickname": "背心"
     },
     {
@@ -389,6 +444,7 @@
         "tname": "NII",
         "sname": "谢妮",
         "room_id": "5778528",
+        "member_id": "45",
         "nickname": "妮子"
     },
     {
@@ -396,6 +452,7 @@
         "tname": "NII",
         "sname": "张怡",
         "room_id": "5777238",
+        "member_id": "63582",
         "nickname": "栗子"
     },
     {
@@ -403,6 +460,7 @@
         "tname": "NII",
         "sname": "周怡",
         "room_id": "5771860",
+        "member_id": "49003",
         "nickname": "碎碎"
     },
     {
@@ -410,6 +468,7 @@
         "tname": "NII",
         "sname": "严佼君",
         "room_id": "5783217",
+        "member_id": "63574",
         "nickname": "渊渊、小仓鼠"
     },
     {
@@ -417,6 +476,7 @@
         "tname": "NII",
         "sname": "徐真",
         "room_id": "",
+        "member_id": "",
         "nickname": "余点"
     },
     {
@@ -424,6 +484,7 @@
         "tname": "NII",
         "sname": "刘菊子",
         "room_id": "5779222",
+        "member_id": "399664",
         "nickname": "橘子"
     },
     {
@@ -431,6 +492,7 @@
         "tname": "NII",
         "sname": "江真仪",
         "room_id": "5773813",
+        "member_id": "399662",
         "nickname": "百合子 、 yuriko"
     },
     {
@@ -438,6 +500,7 @@
         "tname": "NII",
         "sname": "张雅梦",
         "room_id": "",
+        "member_id": "",
         "nickname": "丫丫"
     },
     {
@@ -445,6 +508,7 @@
         "tname": "NII",
         "sname": "金莹玥",
         "room_id": "9225254",
+        "member_id": "538735",
         "nickname": "金兔牙"
     },
     {
@@ -452,6 +516,7 @@
         "tname": "NII",
         "sname": "陶波尔",
         "room_id": "9125456",
+        "member_id": "533852",
         "nickname": "兮落"
     },
     {
@@ -459,6 +524,7 @@
         "tname": "NII",
         "sname": "郭倩芸",
         "room_id": "9011537",
+        "member_id": "530584",
         "nickname": "小哥哥"
     },
     {
@@ -466,6 +532,7 @@
         "tname": "NII",
         "sname": "葛佳慧",
         "room_id": "",
+        "member_id": "",
         "nickname": "小葛、葛葛、Julie"
     },
     {
@@ -473,6 +540,7 @@
         "tname": "NII",
         "sname": "许逸",
         "room_id": "5777251",
+        "member_id": "399668",
         "nickname": "小言"
     },
     {
@@ -480,6 +548,7 @@
         "tname": "SII",
         "sname": "陈观慧",
         "room_id": "5777227",
+        "member_id": "3",
         "nickname": "小艾"
     },
     {
@@ -487,6 +556,7 @@
         "tname": "SII",
         "sname": "戴萌",
         "room_id": "5774514",
+        "member_id": "38",
         "nickname": "呆萌"
     },
     {
@@ -494,6 +564,7 @@
         "tname": "SII",
         "sname": "吴哲晗",
         "room_id": "5771856",
+        "member_id": "39",
         "nickname": "五折"
     },
     {
@@ -501,6 +572,7 @@
         "tname": "SII",
         "sname": "许佳琪",
         "room_id": "5773747",
+        "member_id": "21",
         "nickname": "kiki"
     },
     {
@@ -508,6 +580,7 @@
         "tname": "SII",
         "sname": "陈思",
         "room_id": "5779210",
+        "member_id": "37",
         "nickname": "教练"
     },
     {
@@ -515,6 +588,7 @@
         "tname": "SII",
         "sname": "徐晨辰",
         "room_id": "5773746",
+        "member_id": "18",
         "nickname": "CC"
     },
     {
@@ -522,6 +596,7 @@
         "tname": "SII",
         "sname": "张语格",
         "room_id": "5776891",
+        "member_id": "1",
         "nickname": "章鱼哥"
     },
     {
@@ -529,6 +604,7 @@
         "tname": "SII",
         "sname": "李宇琪",
         "room_id": "5782030",
+        "member_id": "20",
         "nickname": "毛毛"
     },
     {
@@ -536,6 +612,7 @@
         "tname": "SII",
         "sname": "莫寒",
         "room_id": "5778527",
+        "member_id": "35",
         "nickname": "momo"
     },
     {
@@ -543,6 +620,7 @@
         "tname": "SII",
         "sname": "赵嘉敏",
         "room_id": "",
+        "member_id": "",
         "nickname": "savoki"
     },
     {
@@ -550,6 +628,7 @@
         "tname": "SII",
         "sname": "钱蓓婷",
         "room_id": "5779209",
+        "member_id": "36",
         "nickname": "钱少"
     },
     {
@@ -557,6 +636,7 @@
         "tname": "SII",
         "sname": "孔肖吟",
         "room_id": "5782029",
+        "member_id": "19",
         "nickname": "消音姐"
     },
     {
@@ -564,6 +644,7 @@
         "tname": "SII",
         "sname": "邱欣怡",
         "room_id": "5758962",
+        "member_id": "40",
         "nickname": "湾湾"
     },
     {
@@ -571,6 +652,7 @@
         "tname": "SII",
         "sname": "孙芮",
         "room_id": "5777228",
+        "member_id": "8",
         "nickname": "三妹"
     },
     {
@@ -578,6 +660,7 @@
         "tname": "SII",
         "sname": "蒋芸",
         "room_id": "5776896",
+        "member_id": "17",
         "nickname": "未来"
     },
     {
@@ -585,6 +668,7 @@
         "tname": "SII",
         "sname": "温晶婕",
         "room_id": "5783153",
+        "member_id": "11",
         "nickname": "草莓"
     },
     {
@@ -592,6 +676,7 @@
         "tname": "SII",
         "sname": "徐子轩",
         "room_id": "5777229",
+        "member_id": "14",
         "nickname": "络络"
     },
     {
@@ -599,6 +684,7 @@
         "tname": "SII",
         "sname": "袁雨桢",
         "room_id": "5770616",
+        "member_id": "5",
         "nickname": "余震、俊俊"
     },
     {
@@ -606,6 +692,7 @@
         "tname": "SII",
         "sname": "赵晔",
         "room_id": "5770621",
+        "member_id": "6429",
         "nickname": "腿腿，雪野"
     },
     {
@@ -613,6 +700,7 @@
         "tname": "SII",
         "sname": "袁丹妮",
         "room_id": "5758963",
+        "member_id": "67",
         "nickname": "考拉，koala"
     },
     {
@@ -620,6 +708,7 @@
         "tname": "SII",
         "sname": "徐伊人",
         "room_id": "5779211",
+        "member_id": "43",
         "nickname": "YIR，龙龙酱"
     },
     {
@@ -627,6 +716,7 @@
         "tname": "SII",
         "sname": "邵雪聪",
         "room_id": "5776914",
+        "member_id": "6737",
         "nickname": "Coco"
     },
     {
@@ -634,6 +724,7 @@
         "tname": "SII",
         "sname": "刘增艳",
         "room_id": "5783215",
+        "member_id": "63566",
         "nickname": "增锅、增增"
     },
     {
@@ -641,6 +732,7 @@
         "tname": "SII",
         "sname": "吕一",
         "room_id": "5758972",
+        "member_id": "399631",
         "nickname": "番茄、口口一、吕二"
     },
     {
@@ -648,6 +740,7 @@
         "tname": "SII",
         "sname": "赵韩倩",
         "room_id": "",
+        "member_id": "",
         "nickname": "大钳子"
     },
     {
@@ -655,6 +748,7 @@
         "tname": "X",
         "sname": "陈琳",
         "room_id": "5783160",
+        "member_id": "6431",
         "nickname": "琳崽、琳姐"
     },
     {
@@ -662,6 +756,7 @@
         "tname": "X",
         "sname": "李钊",
         "room_id": "5779212",
+        "member_id": "6735",
         "nickname": "桃子"
     },
     {
@@ -669,6 +764,7 @@
         "tname": "X",
         "sname": "冯晓菲",
         "room_id": "5780791",
+        "member_id": "6432",
         "nickname": "灰灰"
     },
     {
@@ -676,6 +772,7 @@
         "tname": "X",
         "sname": "张丹三",
         "room_id": "5780793",
+        "member_id": "6747",
         "nickname": "碳酸"
     },
     {
@@ -683,6 +780,7 @@
         "tname": "X",
         "sname": "李晶",
         "room_id": "5776913",
+        "member_id": "6734",
         "nickname": "大米"
     },
     {
@@ -690,6 +788,7 @@
         "tname": "X",
         "sname": "孙歆文",
         "room_id": "5783164",
+        "member_id": "6739",
         "nickname": "新闻"
     },
     {
@@ -697,6 +796,7 @@
         "tname": "X",
         "sname": "汪佳翎",
         "room_id": "5780792",
+        "member_id": "6740",
         "nickname": "九九"
     },
     {
@@ -704,6 +804,7 @@
         "tname": "X",
         "sname": "宋昕冉",
         "room_id": "5770622",
+        "member_id": "6738",
         "nickname": "冉冉"
     },
     {
@@ -711,6 +812,7 @@
         "tname": "X",
         "sname": "王晓佳",
         "room_id": "5783166",
+        "member_id": "6742",
         "nickname": "天草"
     },
     {
@@ -718,6 +820,7 @@
         "tname": "X",
         "sname": "谢天依",
         "room_id": "5776915",
+        "member_id": "6743",
         "nickname": "笨笨"
     },
     {
@@ -725,6 +828,7 @@
         "tname": "X",
         "sname": "杨韫玉",
         "room_id": "",
+        "member_id": "",
         "nickname": "丸子"
     },
     {
@@ -732,6 +836,7 @@
         "tname": "X",
         "sname": "汪束",
         "room_id": "5779213",
+        "member_id": "6741",
         "nickname": "Soku"
     },
     {
@@ -739,6 +844,7 @@
         "tname": "X",
         "sname": "杨冰怡",
         "room_id": "5779214",
+        "member_id": "6744",
         "nickname": "二水"
     },
     {
@@ -746,6 +852,7 @@
         "tname": "X",
         "sname": "陈韫凌",
         "room_id": "5776932",
+        "member_id": "63551",
         "nickname": "-"
     },
     {
@@ -753,6 +860,7 @@
         "tname": "X",
         "sname": "潘瑛琪",
         "room_id": "5777235",
+        "member_id": "63567",
         "nickname": "星羽、羽羽"
     },
     {
@@ -760,6 +868,7 @@
         "tname": "X",
         "sname": "张嘉予",
         "room_id": "5770633",
+        "member_id": "286979",
         "nickname": "沐沐"
     },
     {
@@ -767,6 +876,7 @@
         "tname": "X",
         "sname": "林忆宁",
         "room_id": "5771867",
+        "member_id": "286980",
         "nickname": "一零"
     },
     {
@@ -774,6 +884,7 @@
         "tname": "X",
         "sname": "祁静",
         "room_id": "5777252",
+        "member_id": "399672",
         "nickname": "sky"
     },
     {
@@ -781,6 +892,7 @@
         "tname": "X",
         "sname": "徐诗琪",
         "room_id": "5771880",
+        "member_id": "399674",
         "nickname": "小七"
     },
     {
@@ -788,6 +900,7 @@
         "tname": "XII",
         "sname": "陈音",
         "room_id": "",
+        "member_id": "",
         "nickname": "凯琳、音宝、小音音"
     },
     {
@@ -795,6 +908,7 @@
         "tname": "XII",
         "sname": "邹佳佳",
         "room_id": "",
+        "member_id": "",
         "nickname": "小猪熊"
     },
     {
@@ -802,6 +916,7 @@
         "tname": "预备生",
         "sname": "沈之琳",
         "room_id": "5778524",
+        "member_id": "9",
         "nickname": "小双"
     },
     {
@@ -809,6 +924,7 @@
         "tname": "预备生",
         "sname": "王柏硕",
         "room_id": "5770620",
+        "member_id": "47",
         "nickname": "sukey"
     },
     {
@@ -816,6 +932,7 @@
         "tname": "预备生",
         "sname": "吴燕文",
         "room_id": "5758965",
+        "member_id": "5564",
         "nickname": "兔兔"
     },
     {
@@ -823,6 +940,7 @@
         "tname": "预备生",
         "sname": "李清扬",
         "room_id": "5770618",
+        "member_id": "28",
         "nickname": "kuma"
     },
     {
@@ -830,6 +948,7 @@
         "tname": "预备生",
         "sname": "张文静",
         "room_id": "5783221",
+        "member_id": "63581",
         "nickname": "小苹果"
     },
     {
@@ -837,6 +956,7 @@
         "tname": "预备生",
         "sname": "成珏",
         "room_id": "5776958",
+        "member_id": "286973",
         "nickname": "珏珏、蛋卷"
     },
     {
@@ -844,6 +964,7 @@
         "tname": "预备生",
         "sname": "吕梦莹",
         "room_id": "5776960",
+        "member_id": "286982",
         "nickname": "小笨蛋"
     },
     {
@@ -851,6 +972,7 @@
         "tname": "预备生",
         "sname": "黄彤扬",
         "room_id": "5782036",
+        "member_id": "286976",
         "nickname": "UK"
     },
     {
@@ -858,6 +980,7 @@
         "tname": "预备生",
         "sname": "潘燕琦",
         "room_id": "5780841",
+        "member_id": "399652",
         "nickname": "S 、Pinky"
     },
     {
@@ -865,6 +988,7 @@
         "tname": "预备生",
         "sname": "刘瀛",
         "room_id": "5770636",
+        "member_id": "399667",
         "nickname": "yooyoung"
     },
     {
@@ -872,6 +996,7 @@
         "tname": "预备生",
         "sname": "姚祎纯",
         "room_id": "5783243",
+        "member_id": "419966",
         "nickname": "纯纯"
     },
     {
@@ -879,6 +1004,7 @@
         "tname": "预备生",
         "sname": "林歆源",
         "room_id": "9339537",
+        "member_id": "541132",
         "nickname": "木里"
     },
     {
@@ -886,6 +1012,7 @@
         "tname": "预备生",
         "sname": "孙亚萍",
         "room_id": "11190812",
+        "member_id": "593820",
         "nickname": "小螃蟹"
     },
     {
@@ -893,6 +1020,7 @@
         "tname": "HIII",
         "sname": "王金铭",
         "room_id": "",
+        "member_id": "",
         "nickname": "田田"
     },
     {
@@ -900,6 +1028,7 @@
         "tname": "HIII",
         "sname": "曲悦萌",
         "room_id": "8150670",
+        "member_id": "480671",
         "nickname": "萌萌哒  卡萌"
     },
     {
@@ -907,6 +1036,7 @@
         "tname": "HIII",
         "sname": "张爱静",
         "room_id": "8163318",
+        "member_id": "480675",
         "nickname": "饼饼"
     },
     {
@@ -914,6 +1044,7 @@
         "tname": "HIII",
         "sname": "寇承希",
         "room_id": "",
+        "member_id": "",
         "nickname": "KoKo，希希"
     },
     {
@@ -921,6 +1052,7 @@
         "tname": "HIII",
         "sname": "徐斐然",
         "room_id": "8164534",
+        "member_id": "480673",
         "nickname": "喧喧"
     },
     {
@@ -928,6 +1060,7 @@
         "tname": "HIII",
         "sname": "李熙凝",
         "room_id": "8154548",
+        "member_id": "480670",
         "nickname": "喵"
     },
     {
@@ -935,6 +1068,7 @@
         "tname": "HIII",
         "sname": "董思佳",
         "room_id": "7900792",
+        "member_id": "480656",
         "nickname": "小狮子"
     },
     {
@@ -942,6 +1076,7 @@
         "tname": "HIII",
         "sname": "李晴",
         "room_id": "8150116",
+        "member_id": "480668",
         "nickname": "晴天  晴晴"
     },
     {
@@ -949,6 +1084,7 @@
         "tname": "HIII",
         "sname": "刘静晗",
         "room_id": "8165372",
+        "member_id": "480667",
         "nickname": "花儿"
     },
     {
@@ -956,6 +1092,7 @@
         "tname": "HIII",
         "sname": "张云梦",
         "room_id": "8165375",
+        "member_id": "480679",
         "nickname": "梦梦"
     },
     {
@@ -963,6 +1100,7 @@
         "tname": "HIII",
         "sname": "任雨情",
         "room_id": "8164514",
+        "member_id": "480672",
         "nickname": "人元气"
     },
     {
@@ -970,6 +1108,7 @@
         "tname": "HIII",
         "sname": "杨肖",
         "room_id": "8158633",
+        "member_id": "480674",
         "nickname": "肖肖"
     },
     {
@@ -977,6 +1116,7 @@
         "tname": "HIII",
         "sname": "郑洁丽",
         "room_id": "8200539",
+        "member_id": "480676",
         "nickname": "朕  腻腻  DJ 小丽"
     },
     {
@@ -984,6 +1124,7 @@
         "tname": "HIII",
         "sname": "高志娴",
         "room_id": "7906419",
+        "member_id": "480665",
         "nickname": "镜子"
     },
     {
@@ -991,6 +1132,7 @@
         "tname": "HIII",
         "sname": "张幼柠",
         "room_id": "",
+        "member_id": "",
         "nickname": "柠檬 阿爸 苗苗"
     },
     {
@@ -998,6 +1140,7 @@
         "tname": "HIII",
         "sname": "张儒轶",
         "room_id": "8171412",
+        "member_id": "480678",
         "nickname": "大西瓜、瓜瓜"
     },
     {
@@ -1005,6 +1148,7 @@
         "tname": "HIII",
         "sname": "张雨晴",
         "room_id": "",
+        "member_id": "",
         "nickname": "泡泡"
     },
     {
@@ -1012,6 +1156,7 @@
         "tname": "HIII",
         "sname": "逯芳竹",
         "room_id": "9178937",
+        "member_id": "530387",
         "nickname": "逯宝、小竹子"
     },
     {
@@ -1019,6 +1164,7 @@
         "tname": "HIII",
         "sname": "王菲妍",
         "room_id": "9186193",
+        "member_id": "530388",
         "nickname": "七七、柒宝"
     },
     {
@@ -1026,6 +1172,7 @@
         "tname": "HIII",
         "sname": "高崇",
         "room_id": "9177989",
+        "member_id": "530385",
         "nickname": "多多"
     },
     {
@@ -1033,6 +1180,7 @@
         "tname": "HIII",
         "sname": "方诗涵",
         "room_id": "9167795",
+        "member_id": "530384",
         "nickname": "小葵、绿绿"
     },
     {
@@ -1040,6 +1188,7 @@
         "tname": "HIII",
         "sname": "张羽涵",
         "room_id": "9175616",
+        "member_id": "530392",
         "nickname": "银子"
     },
     {
@@ -1047,6 +1196,7 @@
         "tname": "HIII",
         "sname": "龚梦婷",
         "room_id": "9180545",
+        "member_id": "530386",
         "nickname": "米拉"
     },
     {
@@ -1054,6 +1204,7 @@
         "tname": "HIII",
         "sname": "黄嘉怡",
         "room_id": "22595567",
+        "member_id": "679459",
         "nickname": "苹果"
     },
     {
@@ -1061,6 +1212,7 @@
         "tname": "HIII",
         "sname": "相望",
         "room_id": "19821117",
+        "member_id": "610040",
         "nickname": "兔子、小小酥"
     },
     {
@@ -1068,6 +1220,7 @@
         "tname": "HIII",
         "sname": "程戈",
         "room_id": "19812475",
+        "member_id": "618319",
         "nickname": "程程、白鸽"
     },
     {
@@ -1075,6 +1228,7 @@
         "tname": "HIII",
         "sname": "唐霖",
         "room_id": "18932438",
+        "member_id": "610042",
         "nickname": "唐小猪、猪猪侠"
     },
     {
@@ -1082,6 +1236,7 @@
         "tname": "HIII",
         "sname": "朱敏",
         "room_id": "22674618",
+        "member_id": "679467",
         "nickname": "小初、敏敏、小猪"
     },
     {
@@ -1089,6 +1244,7 @@
         "tname": "HIII",
         "sname": "王雨兰",
         "room_id": "22537562",
+        "member_id": "679466",
         "nickname": "楠楠"
     },
     {
@@ -1096,6 +1252,7 @@
         "tname": "HIII",
         "sname": "王嘉瑜",
         "room_id": "22576259",
+        "member_id": "679464",
         "nickname": "小鱼、瑜小瑜"
     },
     {
@@ -1103,6 +1260,7 @@
         "tname": "HIII",
         "sname": "陈俊羽",
         "room_id": "22634320",
+        "member_id": "679448",
         "nickname": "冒冒、羽妹"
     },
     {
@@ -1110,6 +1268,7 @@
         "tname": "HIII",
         "sname": "李苏洪",
         "room_id": "22664252",
+        "member_id": "679462",
         "nickname": "SUSU、小小SU"
     },
     {
@@ -1117,6 +1276,7 @@
         "tname": "HIII",
         "sname": "刁滢",
         "room_id": "22674623",
+        "member_id": "679455",
         "nickname": "樱桃"
     },
     {
@@ -1124,6 +1284,7 @@
         "tname": "SIII",
         "sname": "周佳怡",
         "room_id": "19376836",
+        "member_id": "609001",
         "nickname": "周周、清子"
     },
     {
@@ -1131,6 +1292,7 @@
         "tname": "SIII",
         "sname": "司珀琳",
         "room_id": "19375742",
+        "member_id": "608997",
         "nickname": "阿司、珀珀、梨子"
     },
     {
@@ -1138,6 +1300,7 @@
         "tname": "SIII",
         "sname": "冯译莹",
         "room_id": "7986267",
+        "member_id": "460003",
         "nickname": "小二"
     },
     {
@@ -1145,6 +1308,7 @@
         "tname": "SIII",
         "sname": "赖梓惜",
         "room_id": "7987397",
+        "member_id": "459995",
         "nickname": "赖赖、糯米、nono"
     },
     {
@@ -1152,6 +1316,7 @@
         "tname": "SIII",
         "sname": "秦玺",
         "room_id": "7990092",
+        "member_id": "459994",
         "nickname": "七喜"
     },
     {
@@ -1159,6 +1324,7 @@
         "tname": "SIII",
         "sname": "南翎璞",
         "room_id": "",
+        "member_id": "",
         "nickname": "楠楠"
     },
     {
@@ -1166,6 +1332,7 @@
         "tname": "SIII",
         "sname": "韩家乐",
         "room_id": "7981599",
+        "member_id": "459999",
         "nickname": "可乐、乐乐、热热"
     },
     {
@@ -1173,6 +1340,7 @@
         "tname": "SIII",
         "sname": "杨允涵",
         "room_id": "8016995",
+        "member_id": "460004",
         "nickname": "闪闪"
     },
     {
@@ -1180,6 +1348,7 @@
         "tname": "SIII",
         "sname": "赵佳蕊",
         "room_id": "7987195",
+        "member_id": "460005",
         "nickname": "蕊妹"
     },
     {
@@ -1187,6 +1356,7 @@
         "tname": "SIII",
         "sname": "刘娜",
         "room_id": "8042233",
+        "member_id": "459992",
         "nickname": "辣辣"
     },
     {
@@ -1194,6 +1364,7 @@
         "tname": "SIII",
         "sname": "孙敏",
         "room_id": "7964959",
+        "member_id": "460007",
         "nickname": "小敏"
     },
     {
@@ -1201,6 +1372,7 @@
         "tname": "SIII",
         "sname": "关思雨",
         "room_id": "8020430",
+        "member_id": "459996",
         "nickname": "酒窝、大驴"
     },
     {
@@ -1208,6 +1380,7 @@
         "tname": "SIII",
         "sname": "李慧",
         "room_id": "8014885",
+        "member_id": "458335",
         "nickname": "李晴天、兔牙"
     },
     {
@@ -1215,6 +1388,7 @@
         "tname": "SIII",
         "sname": "朱燕",
         "room_id": "",
+        "member_id": "",
         "nickname": "老干部"
     },
     {
@@ -1222,6 +1396,7 @@
         "tname": "SIII",
         "sname": "卢天惠",
         "room_id": "7975343",
+        "member_id": "459991",
         "nickname": "肥肥"
     },
     {
@@ -1229,6 +1404,7 @@
         "tname": "SIII",
         "sname": "陈婧文",
         "room_id": "",
+        "member_id": "",
         "nickname": "昱子、kana"
     },
     {
@@ -1236,6 +1412,7 @@
         "tname": "SIII",
         "sname": "刘娇",
         "room_id": "7991480",
+        "member_id": "459993",
         "nickname": "椒椒"
     },
     {
@@ -1243,6 +1420,7 @@
         "tname": "SIII",
         "sname": "王诗蒙",
         "room_id": "7969870",
+        "member_id": "459989",
         "nickname": "懵懵"
     },
     {
@@ -1250,6 +1428,7 @@
         "tname": "SIII",
         "sname": "付紫琪",
         "room_id": "7976494",
+        "member_id": "460002",
         "nickname": "璃笙"
     },
     {
@@ -1257,6 +1436,7 @@
         "tname": "SIII",
         "sname": "徐静妍",
         "room_id": "",
+        "member_id": "",
         "nickname": "妍仔、啊妍"
     },
     {
@@ -1264,6 +1444,7 @@
         "tname": "SIII",
         "sname": "郑诗琪",
         "room_id": "9164598",
+        "member_id": "530383",
         "nickname": "糖糖"
     },
     {
@@ -1271,6 +1452,7 @@
         "tname": "SIII",
         "sname": "叶锦童",
         "room_id": "9049184",
+        "member_id": "530380",
         "nickname": "童童、锦小童"
     },
     {
@@ -1278,6 +1460,7 @@
         "tname": "SIII",
         "sname": "菅瑞静",
         "room_id": "9190558",
+        "member_id": "530378",
         "nickname": "尖尖 、jerry"
     },
     {
@@ -1285,6 +1468,7 @@
         "tname": "SIII",
         "sname": "臧聪",
         "room_id": "9196677",
+        "member_id": "530381",
         "nickname": "聪聪"
     },
     {
@@ -1292,6 +1476,7 @@
         "tname": "SIII",
         "sname": "陈奕君",
         "room_id": "9219636",
+        "member_id": "529991",
         "nickname": "夏阳"
     },
     {
@@ -1299,6 +1484,7 @@
         "tname": "SIII",
         "sname": "李彬玉",
         "room_id": "19258587",
+        "member_id": "608995",
         "nickname": "木子、驴驴"
     },
     {
@@ -1306,6 +1492,7 @@
         "tname": "SIII",
         "sname": "赵天杨",
         "room_id": "19373976",
+        "member_id": "609002",
         "nickname": "崽崽、货货"
     },
     {
@@ -1313,6 +1500,7 @@
         "tname": "G",
         "sname": "陈珂",
         "room_id": "5771862",
+        "member_id": "63548",
         "nickname": "CK、珂导"
     },
     {
@@ -1320,6 +1508,7 @@
         "tname": "G",
         "sname": "陈雨琪",
         "room_id": "5776933",
+        "member_id": "63552",
         "nickname": "小可爱、团子、minaki"
     },
     {
@@ -1327,6 +1516,7 @@
         "tname": "G",
         "sname": "刘梦雅",
         "room_id": "",
+        "member_id": "",
         "nickname": "沐叶"
     },
     {
@@ -1334,6 +1524,7 @@
         "tname": "G",
         "sname": "李沁洁",
         "room_id": "5774523",
+        "member_id": "63564",
         "nickname": "木子、kiko"
     },
     {
@@ -1341,6 +1532,7 @@
         "tname": "G",
         "sname": "刘筱筱",
         "room_id": "",
+        "member_id": "",
         "nickname": "筱筱、大大"
     },
     {
@@ -1348,6 +1540,7 @@
         "tname": "G",
         "sname": "林嘉佩",
         "room_id": "5777232",
+        "member_id": "63562",
         "nickname": "佩佩、小0"
     },
     {
@@ -1355,6 +1548,7 @@
         "tname": "G",
         "sname": "高源婧",
         "room_id": "5776938",
+        "member_id": "63557",
         "nickname": "小狐狸、二源"
     },
     {
@@ -1362,6 +1556,7 @@
         "tname": "G",
         "sname": "谢蕾蕾",
         "room_id": "5783256",
+        "member_id": "63572",
         "nickname": "hana、蕾蕾"
     },
     {
@@ -1369,6 +1564,7 @@
         "tname": "G",
         "sname": "阳青颖",
         "room_id": "5779228",
+        "member_id": "63576",
         "nickname": "夏天"
     },
     {
@@ -1376,6 +1572,7 @@
         "tname": "G",
         "sname": "曾艾佳",
         "room_id": "5774530",
+        "member_id": "63577",
         "nickname": "狮子、艾瑞狮"
     },
     {
@@ -1383,6 +1580,7 @@
         "tname": "G",
         "sname": "张凯祺",
         "room_id": "5782035",
+        "member_id": "63580",
         "nickname": "阿彪、阿Belle"
     },
     {
@@ -1390,6 +1588,7 @@
         "tname": "G",
         "sname": "周倩玉",
         "room_id": "",
+        "member_id": "",
         "nickname": "akuma"
     },
     {
@@ -1397,6 +1596,7 @@
         "tname": "G",
         "sname": "张琼予",
         "room_id": "5783223",
+        "member_id": "327560",
         "nickname": "rinako"
     },
     {
@@ -1404,6 +1604,7 @@
         "tname": "G",
         "sname": "罗寒月",
         "room_id": "5758967",
+        "member_id": "327558",
         "nickname": "小垣、寒月、暖日、tsuki"
     },
     {
@@ -1411,6 +1612,7 @@
         "tname": "G",
         "sname": "胡怡莹",
         "room_id": "",
+        "member_id": "",
         "nickname": "小巫婆、小核桃"
     },
     {
@@ -1418,6 +1620,7 @@
         "tname": "G",
         "sname": "黄黎蓉",
         "room_id": "5771886",
+        "member_id": "410175",
         "nickname": "黎蓉、莲蓉蛋黄"
     },
     {
@@ -1425,6 +1628,7 @@
         "tname": "G",
         "sname": "向芸",
         "room_id": "",
+        "member_id": "",
         "nickname": "小软、Sharen"
     },
     {
@@ -1432,6 +1636,7 @@
         "tname": "G",
         "sname": "陈佳莹",
         "room_id": "9342446",
+        "member_id": "530431",
         "nickname": "小家伙"
     },
     {
@@ -1439,6 +1644,7 @@
         "tname": "G",
         "sname": "朱怡欣",
         "room_id": "9340808",
+        "member_id": "530452",
         "nickname": "GG.Bond、朱朱、11、棉花糖"
     },
     {
@@ -1446,6 +1652,7 @@
         "tname": "G",
         "sname": "程一心",
         "room_id": "9343067",
+        "member_id": "530435",
         "nickname": "大猩猩，小心"
     },
     {
@@ -1453,6 +1660,7 @@
         "tname": "G",
         "sname": "方晓瑜",
         "room_id": "9341101",
+        "member_id": "530436",
         "nickname": "小鱼 晓晓"
     },
     {
@@ -1460,6 +1668,7 @@
         "tname": "G",
         "sname": "陈俊宏",
         "room_id": "9337363",
+        "member_id": "530433",
         "nickname": "Aoi、夜喵、喵"
     },
     {
@@ -1467,6 +1676,7 @@
         "tname": "G",
         "sname": "刘小末",
         "room_id": "",
+        "member_id": "",
         "nickname": "小末，毛豆"
     },
     {
@@ -1474,6 +1684,7 @@
         "tname": "G",
         "sname": "陈乐添",
         "room_id": "",
+        "member_id": "",
         "nickname": "大添添、小仙美子"
     },
     {
@@ -1481,6 +1692,7 @@
         "tname": "G",
         "sname": "梁可",
         "room_id": "9335784",
+        "member_id": "530443",
         "nickname": "可乐、可可"
     },
     {
@@ -1488,6 +1700,7 @@
         "tname": "G",
         "sname": "黄楚茵",
         "room_id": "18721105",
+        "member_id": "607515",
         "nickname": "奶黄包、央央"
     },
     {
@@ -1495,6 +1708,7 @@
         "tname": "NIII",
         "sname": "刘倩倩",
         "room_id": "5758968",
+        "member_id": "327568",
         "nickname": "倩倩、圈圈、677"
     },
     {
@@ -1502,6 +1716,7 @@
         "tname": "NIII",
         "sname": "左嘉欣",
         "room_id": "5758969",
+        "member_id": "327576",
         "nickname": "嘉欣、Pany"
     },
     {
@@ -1509,6 +1724,7 @@
         "tname": "NIII",
         "sname": "左婧媛",
         "room_id": "5782038",
+        "member_id": "327577",
         "nickname": "左左、左大侠"
     },
     {
@@ -1516,6 +1732,7 @@
         "tname": "NIII",
         "sname": "唐莉佳",
         "room_id": "5771871",
+        "member_id": "327571",
         "nickname": "丫丫、Olivia、士力架"
     },
     {
@@ -1523,6 +1740,7 @@
         "tname": "NIII",
         "sname": "肖文铃",
         "room_id": "5777243",
+        "member_id": "327573",
         "nickname": "小铃铛"
     },
     {
@@ -1530,6 +1748,7 @@
         "tname": "NIII",
         "sname": "洪静雯",
         "room_id": "5776962",
+        "member_id": "327566",
         "nickname": "奶盖、盖宝"
     },
     {
@@ -1537,6 +1756,7 @@
         "tname": "NIII",
         "sname": "卢静",
         "room_id": "5777242",
+        "member_id": "327569",
         "nickname": "卢不闹、总裁、小精灵"
     },
     {
@@ -1544,6 +1764,7 @@
         "tname": "NIII",
         "sname": "陈欣妤",
         "room_id": "5771868",
+        "member_id": "327564",
         "nickname": "金鱼"
     },
     {
@@ -1551,6 +1772,7 @@
         "tname": "NIII",
         "sname": "陈楠茜",
         "room_id": "5777241",
+        "member_id": "327563",
         "nickname": "奶昔、魔法少女子茉茉、Nancy"
     },
     {
@@ -1558,6 +1780,7 @@
         "tname": "NIII",
         "sname": "冼燊楠",
         "room_id": "5771872",
+        "member_id": "327572",
         "nickname": "usagi、果舞"
     },
     {
@@ -1565,6 +1788,7 @@
         "tname": "NIII",
         "sname": "郑丹妮",
         "room_id": "5776963",
+        "member_id": "327575",
         "nickname": "蒸蛋泥、Kimmy、懒蛋蛋"
     },
     {
@@ -1572,6 +1796,7 @@
         "tname": "NIII",
         "sname": "陈慧婧",
         "room_id": "5776961",
+        "member_id": "327562",
         "nickname": "魔婧、猫玖"
     },
     {
@@ -1579,6 +1804,7 @@
         "tname": "NIII",
         "sname": "冯嘉希",
         "room_id": "5779220",
+        "member_id": "327565",
         "nickname": "希仔、小希"
     },
     {
@@ -1586,6 +1812,7 @@
         "tname": "NIII",
         "sname": "孙馨",
         "room_id": "5771870",
+        "member_id": "327570",
         "nickname": "小老虎"
     },
     {
@@ -1593,6 +1820,7 @@
         "tname": "NIII",
         "sname": "刘力菲",
         "room_id": "5770634",
+        "member_id": "327567",
         "nickname": "flyfly、米菲、Miffy"
     },
     {
@@ -1600,6 +1828,7 @@
         "tname": "NIII",
         "sname": "李伊虹",
         "room_id": "5783236",
+        "member_id": "410180",
         "nickname": "橙妹er、雷猴"
     },
     {
@@ -1607,6 +1836,7 @@
         "tname": "NIII",
         "sname": "唐诗怡",
         "room_id": "9335706",
+        "member_id": "530446",
         "nickname": "糖宝，葫芦糖，十一"
     },
     {
@@ -1614,6 +1844,7 @@
         "tname": "NIII",
         "sname": "谢艾琳",
         "room_id": "9339220",
+        "member_id": "530447",
         "nickname": "420、Irene"
     },
     {
@@ -1621,6 +1852,7 @@
         "tname": "NIII",
         "sname": "郑悦",
         "room_id": "9333412",
+        "member_id": "530451",
         "nickname": "Mila、悦悦"
     },
     {
@@ -1628,6 +1860,7 @@
         "tname": "NIII",
         "sname": "高雪逸",
         "room_id": "9338140",
+        "member_id": "530439",
         "nickname": "果核"
     },
     {
@@ -1635,6 +1868,7 @@
         "tname": "NIII",
         "sname": "吴羽霏",
         "room_id": "18709707",
+        "member_id": "607591",
         "nickname": "无语飞"
     },
     {
@@ -1642,6 +1876,7 @@
         "tname": "Z",
         "sname": "刘嘉怡",
         "room_id": "",
+        "member_id": "",
         "nickname": "七妹、6+1"
     },
     {
@@ -1649,6 +1884,7 @@
         "tname": "Z",
         "sname": "王炯义",
         "room_id": "5783237",
+        "member_id": "417325",
         "nickname": "囧囧"
     },
     {
@@ -1656,6 +1892,7 @@
         "tname": "Z",
         "sname": "王偲越",
         "room_id": "5773823",
+        "member_id": "417326",
         "nickname": "四月、菜菜"
     },
     {
@@ -1663,6 +1900,7 @@
         "tname": "Z",
         "sname": "农燕萍",
         "room_id": "5770641",
+        "member_id": "417321",
         "nickname": "奶瓶、燕燕"
     },
     {
@@ -1670,6 +1908,7 @@
         "tname": "Z",
         "sname": "陈梓荧",
         "room_id": "5758974",
+        "member_id": "417315",
         "nickname": "Pica、闪闪"
     },
     {
@@ -1677,6 +1916,7 @@
         "tname": "Z",
         "sname": "龙亦瑞",
         "room_id": "5770640",
+        "member_id": "417320",
         "nickname": "瑞子、大王"
     },
     {
@@ -1684,6 +1924,7 @@
         "tname": "Z",
         "sname": "杨媛媛",
         "room_id": "5776973",
+        "member_id": "417331",
         "nickname": "杨导、元宝、circle"
     },
     {
@@ -1691,6 +1932,7 @@
         "tname": "Z",
         "sname": "杜秋霖",
         "room_id": "5773822",
+        "member_id": "417317",
         "nickname": "蚯蚓、阿喵"
     },
     {
@@ -1698,6 +1940,7 @@
         "tname": "Z",
         "sname": "王翠菲",
         "room_id": "5770642",
+        "member_id": "417324",
         "nickname": "加菲、Aurora"
     },
     {
@@ -1705,6 +1948,7 @@
         "tname": "Z",
         "sname": "陈桂君",
         "room_id": "5779225",
+        "member_id": "417311",
         "nickname": "阿邪、邪酱"
     },
     {
@@ -1712,6 +1956,7 @@
         "tname": "Z",
         "sname": "王盈",
         "room_id": "",
+        "member_id": "",
         "nickname": "王爷、YY"
     },
     {
@@ -1719,6 +1964,7 @@
         "tname": "Z",
         "sname": "于珊珊",
         "room_id": "5783240",
+        "member_id": "417332",
         "nickname": "Yui、鱼子酱"
     },
     {
@@ -1726,6 +1972,7 @@
         "tname": "Z",
         "sname": "杨可璐",
         "room_id": "5783238",
+        "member_id": "417330",
         "nickname": "羊驼、各各"
     },
     {
@@ -1733,6 +1980,7 @@
         "tname": "Z",
         "sname": "王秭歆",
         "room_id": "5779226",
+        "member_id": "417329",
         "nickname": "小王子、娉娉"
     },
     {
@@ -1740,6 +1988,7 @@
         "tname": "Z",
         "sname": "张心雨",
         "room_id": "",
+        "member_id": "",
         "nickname": "小雨"
     },
     {
@@ -1747,6 +1996,7 @@
         "tname": "Z",
         "sname": "代玲",
         "room_id": "5778538",
+        "member_id": "417316",
         "nickname": "Darling、呆呆"
     },
     {
@@ -1754,6 +2004,7 @@
         "tname": "Z",
         "sname": "赵翊民",
         "room_id": "",
+        "member_id": "",
         "nickname": "猫猫、sherlyn"
     },
     {
@@ -1761,6 +2012,7 @@
         "tname": "Z",
         "sname": "赵欣雨",
         "room_id": "5776974",
+        "member_id": "417335",
         "nickname": "candy"
     },
     {
@@ -1768,6 +2020,7 @@
         "tname": "Z",
         "sname": "毕瑞珊",
         "room_id": "18709668",
+        "member_id": "607507",
         "nickname": "小珊子、melody"
     },
     {
@@ -1775,6 +2028,7 @@
         "tname": "Z",
         "sname": "张秋怡",
         "room_id": "9342380",
+        "member_id": "530450",
         "nickname": "Aki、乔伊、秋秋"
     },
     {
@@ -1782,6 +2036,7 @@
         "tname": "Z",
         "sname": "赖俊亦",
         "room_id": "9332797",
+        "member_id": "530440",
         "nickname": "小懒 小赖"
     },
     {
@@ -1789,6 +2044,7 @@
         "tname": "Z",
         "sname": "何梦瑶",
         "room_id": "18717305",
+        "member_id": "607516",
         "nickname": "kamuyou、摇一摇、梦瑶"
     },
     {
@@ -1796,6 +2052,7 @@
         "tname": "Z",
         "sname": "余芷媛",
         "room_id": "18696906",
+        "member_id": "607594",
         "nickname": "芷媛"
     },
     {
@@ -1803,6 +2060,7 @@
         "tname": "Z",
         "sname": "叶晓梦",
         "room_id": "18713709",
+        "member_id": "607592",
         "nickname": "big梦、sunwer"
     },
     {
@@ -1810,6 +2068,7 @@
         "tname": "Z",
         "sname": "梁婉琳",
         "room_id": "18706972",
+        "member_id": "601302",
         "nickname": "晚晚、言言子、Ailsa"
     },
     {
@@ -1817,6 +2076,7 @@
         "tname": "预备生",
         "sname": "汪慕远",
         "room_id": "18710871",
+        "member_id": "607524",
         "nickname": "小妖"
     },
     {
@@ -1824,6 +2084,7 @@
         "tname": "预备生",
         "sname": "林芝",
         "room_id": "18712468",
+        "member_id": "607523",
         "nickname": "007、木木茜"
     },
     {
@@ -1831,6 +2092,7 @@
         "tname": "预备生",
         "sname": "章泽婷",
         "room_id": "",
+        "member_id": "",
         "nickname": "曦子"
     },
     {
@@ -1838,6 +2100,7 @@
         "tname": "预备生",
         "sname": "程子钰",
         "room_id": "18724509",
+        "member_id": "607510",
         "nickname": "鱼崽"
     },
     {
@@ -1845,6 +2108,7 @@
         "tname": "预备生",
         "sname": "邓惠恩",
         "room_id": "18716764",
+        "member_id": "607511",
         "nickname": "酥饼"
     },
     {
@@ -1852,6 +2116,7 @@
         "tname": "预备生",
         "sname": "罗可嘉",
         "room_id": "18716506",
+        "member_id": "607521",
         "nickname": "可嘉、小安"
     },
     {
@@ -1859,6 +2124,7 @@
         "tname": "预备生",
         "sname": "符冰冰",
         "room_id": "18702980",
+        "member_id": "607513",
         "nickname": "Bubu、冰冰"
     },
     {
@@ -1866,6 +2132,7 @@
         "tname": "预备生",
         "sname": "舒湘",
         "room_id": "21519222",
+        "member_id": "624312",
         "nickname": "Mint、湘湘"
     },
     {
@@ -1873,6 +2140,7 @@
         "tname": "预备生",
         "sname": "王梦媛",
         "room_id": "21536978",
+        "member_id": "624313",
         "nickname": "沧姐、沧子"
     },
     {
@@ -1880,6 +2148,7 @@
         "tname": "预备生",
         "sname": "李晨曦",
         "room_id": "21673709",
+        "member_id": "624311",
         "nickname": "抖抖"
     },
     {
@@ -1887,6 +2156,7 @@
         "tname": "预备生",
         "sname": "肖文静",
         "room_id": "21545705",
+        "member_id": "624315",
         "nickname": "茶搽"
     },
     {
@@ -1894,6 +2164,7 @@
         "tname": "预备生",
         "sname": "徐佳音",
         "room_id": "21664007",
+        "member_id": "624314",
         "nickname": "喑、喑爷、小脸"
     },
     {
@@ -1901,6 +2172,7 @@
         "tname": "预备生",
         "sname": "张紫颖",
         "room_id": "21529013",
+        "member_id": "624318",
         "nickname": "颖妹、影子"
     },
     {
@@ -1908,6 +2180,7 @@
         "tname": "预备生",
         "sname": "梁娇",
         "room_id": "",
+        "member_id": "",
         "nickname": "大乔"
     },
     {
@@ -1915,6 +2188,7 @@
         "tname": "预备生",
         "sname": "谢菲菲",
         "room_id": "",
+        "member_id": "",
         "nickname": "茄子、麋鹿"
     },
     {
@@ -1922,6 +2196,7 @@
         "tname": "预备生",
         "sname": "郭铱宁",
         "room_id": "",
+        "member_id": "",
         "nickname": "铱一"
     },
     {
@@ -1929,6 +2204,7 @@
         "tname": "预备生",
         "sname": "门秀天",
         "room_id": "",
+        "member_id": "",
         "nickname": "露比"
     },
     {
@@ -1936,6 +2212,7 @@
         "tname": "预备生",
         "sname": "梁乔",
         "room_id": "",
+        "member_id": "",
         "nickname": "小乔"
     },
     {
@@ -1943,6 +2220,7 @@
         "tname": "C",
         "sname": "熊心瑶",
         "room_id": "5771873",
+        "member_id": "327574",
         "nickname": "心瑶、Haruka、苞谷"
     },
     {
@@ -1950,6 +2228,7 @@
         "tname": "C",
         "sname": "伍寒琪",
         "room_id": "18872373",
+        "member_id": "614738",
         "nickname": "五七七"
     },
     {
@@ -1957,6 +2236,7 @@
         "tname": "C",
         "sname": "李泽亚",
         "room_id": "18874574",
+        "member_id": "614729",
         "nickname": "aya、卤蛋"
     },
     {
@@ -1964,6 +2244,7 @@
         "tname": "C",
         "sname": "李恩锐",
         "room_id": "18876868",
+        "member_id": "614725",
         "nickname": "恩锐、RIO"
     },
     {
@@ -1971,6 +2252,7 @@
         "tname": "C",
         "sname": "孟玥",
         "room_id": "18933202",
+        "member_id": "614730",
         "nickname": "肉肉"
     },
     {
@@ -1978,6 +2260,7 @@
         "tname": "C",
         "sname": "王梦竹",
         "room_id": "18869478",
+        "member_id": "614739",
         "nickname": "盟主、崔崔"
     },
     {
@@ -1985,6 +2268,7 @@
         "tname": "C",
         "sname": "王娱博",
         "room_id": "18931483",
+        "member_id": "614740",
         "nickname": "灯灯、博博、博子、鸭脖"
     },
     {
@@ -1992,6 +2276,7 @@
         "tname": "C",
         "sname": "冉蔚",
         "room_id": "18931469",
+        "member_id": "614734",
         "nickname": "软软、蔚蔚"
     },
     {
@@ -1999,6 +2284,7 @@
         "tname": "C",
         "sname": "曾佳",
         "room_id": "18868708",
+        "member_id": "614741",
         "nickname": "佳佳、sora"
     },
     {
@@ -2006,6 +2292,7 @@
         "tname": "C",
         "sname": "谯玉珍",
         "room_id": "18876438",
+        "member_id": "614733",
         "nickname": "小黑猫、点点"
     },
     {
@@ -2013,6 +2300,7 @@
         "tname": "C",
         "sname": "李姗姗",
         "room_id": "18863978",
+        "member_id": "614727",
         "nickname": "册子、Satsuko"
     },
     {
@@ -2020,6 +2308,7 @@
         "tname": "C",
         "sname": "左欣",
         "room_id": "18865486",
+        "member_id": "614742",
         "nickname": "欣儿、小欣、洋芋"
     },
     {
@@ -2027,6 +2316,7 @@
         "tname": "C",
         "sname": "周源",
         "room_id": "18912170",
+        "member_id": "614743",
         "nickname": "琳烯"
     },
     {
@@ -2034,6 +2324,7 @@
         "tname": "C",
         "sname": "雷宇霄",
         "room_id": "18925326",
+        "member_id": "614728",
         "nickname": "霄霄、霄酱"
     },
     {
@@ -2041,6 +2332,7 @@
         "tname": "C",
         "sname": "毛译晗",
         "room_id": "18931527",
+        "member_id": "614731",
         "nickname": "小毛、小毛毛"
     },
     {
@@ -2048,6 +2340,7 @@
         "tname": "C",
         "sname": "徐楚雯",
         "room_id": "25646704",
+        "member_id": "707371",
         "nickname": "蛙蛙、蠢蠢、雯雯、小翠"
     },
     {
@@ -2055,6 +2348,7 @@
         "tname": "C",
         "sname": "田倩兰",
         "room_id": "18866539",
+        "member_id": "614735",
         "nickname": "田田、倩倩、兰兰"
     },
     {
@@ -2062,6 +2356,7 @@
         "tname": "C",
         "sname": "陶菀瑞",
         "room_id": "18863833",
+        "member_id": "614736",
         "nickname": "魔王、Neko"
     },
     {
@@ -2069,6 +2364,7 @@
         "tname": "C",
         "sname": "柏欣妤",
         "room_id": "18874571",
+        "member_id": "614528",
         "nickname": "波多野卷菜花、白白"
     },
     {
@@ -2076,6 +2372,7 @@
         "tname": "C",
         "sname": "徐慧玲",
         "room_id": "25723068",
+        "member_id": "707372",
         "nickname": "小玲玲"
     },
     {
@@ -2083,6 +2380,7 @@
         "tname": "K",
         "sname": "刘炅然",
         "room_id": "5780790",
+        "member_id": "1544",
         "nickname": "怪兽"
     },
     {
@@ -2090,6 +2388,7 @@
         "tname": "K",
         "sname": "王露皎",
         "room_id": "5779216",
+        "member_id": "49006",
         "nickname": "饺子、鹿角"
     },
     {
@@ -2097,6 +2396,7 @@
         "tname": "K",
         "sname": "艾芷亦",
         "room_id": "18925515",
+        "member_id": "614749",
         "nickname": "艾玛"
     },
     {
@@ -2104,6 +2404,7 @@
         "tname": "K",
         "sname": "邓倩",
         "room_id": "19006904",
+        "member_id": "614750",
         "nickname": "倩姐"
     },
     {
@@ -2111,6 +2412,7 @@
         "tname": "K",
         "sname": "吴晶晶",
         "room_id": "18874489",
+        "member_id": "614776",
         "nickname": "小猪仔、晶晶"
     },
     {
@@ -2118,6 +2420,7 @@
         "tname": "K",
         "sname": "李瑜璇",
         "room_id": "18926936",
+        "member_id": "614757",
         "nickname": "鲤鱼"
     },
     {
@@ -2125,6 +2428,7 @@
         "tname": "K",
         "sname": "吴学雨",
         "room_id": "19308165",
+        "member_id": "614761",
         "nickname": "小苹果、果果"
     },
     {
@@ -2132,6 +2436,7 @@
         "tname": "K",
         "sname": "章宇阳",
         "room_id": "18872322",
+        "member_id": "614770",
         "nickname": "cheese、奶酪"
     },
     {
@@ -2139,6 +2444,7 @@
         "tname": "K",
         "sname": "林舒晴",
         "room_id": "18864508",
+        "member_id": "614756",
         "nickname": "甜甜、baby"
     },
     {
@@ -2146,6 +2452,7 @@
         "tname": "K",
         "sname": "田祯臻",
         "room_id": "19174730",
+        "member_id": "614760",
         "nickname": "二蛙、一寒"
     },
     {
@@ -2153,6 +2460,7 @@
         "tname": "K",
         "sname": "夏文倩",
         "room_id": "18920665",
+        "member_id": "614762",
         "nickname": "快快"
     },
     {
@@ -2160,6 +2468,7 @@
         "tname": "K",
         "sname": "赵泽慧",
         "room_id": "18915966",
+        "member_id": "614773",
         "nickname": "慧慧、泽慧、慧儿、酸奶"
     },
     {
@@ -2167,6 +2476,7 @@
         "tname": "K",
         "sname": "韩林芹",
         "room_id": "18878868",
+        "member_id": "614754",
         "nickname": "芹菜"
     },
     {
@@ -2174,6 +2484,7 @@
         "tname": "K",
         "sname": "郝婧怡",
         "room_id": "18929102",
+        "member_id": "614753",
         "nickname": "静静、果酱"
     },
     {
@@ -2181,6 +2492,7 @@
         "tname": "K",
         "sname": "黄琬璎",
         "room_id": "18936316",
+        "member_id": "614755",
         "nickname": "樱桃小丸子、小樱桃、车厘子、撒库"
     },
     {
@@ -2188,6 +2500,7 @@
         "tname": "K",
         "sname": "魏小燕",
         "room_id": "25646712",
+        "member_id": "707369",
         "nickname": "小燕子、小卷毛"
     },
     {
@@ -2195,6 +2508,7 @@
         "tname": "K",
         "sname": "樊曦月",
         "room_id": "",
+        "member_id": "",
         "nickname": "安妮、Anne"
     },
     {
@@ -2202,6 +2516,7 @@
         "tname": "预备生",
         "sname": "周桐冉",
         "room_id": "25549423",
+        "member_id": "707375",
         "nickname": "铜锣烧、Fos磷"
     },
     {
@@ -2209,6 +2524,7 @@
         "tname": "预备生",
         "sname": "戴紫薇",
         "room_id": "25549446",
+        "member_id": "707365",
         "nickname": "嘴嘴、紫薇、Davy"
     },
     {
@@ -2216,6 +2532,7 @@
         "tname": "预备生",
         "sname": "余梦露",
         "room_id": "25559669",
+        "member_id": "707373",
         "nickname": "杏仁露、小小鱼"
     },
     {
@@ -2223,6 +2540,7 @@
         "tname": "预备生",
         "sname": "邹冰清",
         "room_id": "",
+        "member_id": "",
         "nickname": "清酱、ZOE、桂芬"
     },
     {
@@ -2230,6 +2548,7 @@
         "tname": "预备生",
         "sname": "吴晓桐",
         "room_id": "",
+        "member_id": "",
         "nickname": "小团团"
     },
     {
@@ -2237,6 +2556,7 @@
         "tname": "B",
         "sname": "闫明筠",
         "room_id": "5776916",
+        "member_id": "6745",
         "nickname": "菌菇"
     },
     {
@@ -2244,6 +2564,7 @@
         "tname": "B",
         "sname": "段艺璇",
         "room_id": "5774521",
+        "member_id": "63554",
         "nickname": "大可爱、二米一的大阿璇"
     },
     {
@@ -2251,6 +2572,7 @@
         "tname": "B",
         "sname": "陈美君",
         "room_id": "5778530",
+        "member_id": "63549",
         "nickname": "MIMI"
     },
     {
@@ -2258,6 +2580,7 @@
         "tname": "B",
         "sname": "冯雪莹",
         "room_id": "",
+        "member_id": "",
         "nickname": "雪糕"
     },
     {
@@ -2265,6 +2588,7 @@
         "tname": "B",
         "sname": "宋思娴",
         "room_id": "5774524",
+        "member_id": "63568",
         "nickname": "笑笑"
     },
     {
@@ -2272,6 +2596,7 @@
         "tname": "B",
         "sname": "胡晓慧",
         "room_id": "5779217",
+        "member_id": "63559",
         "nickname": "包子"
     },
     {
@@ -2279,6 +2604,7 @@
         "tname": "B",
         "sname": "徐佳丽",
         "room_id": "",
+        "member_id": "",
         "nickname": "大白、佳丽、好丽友"
     },
     {
@@ -2286,6 +2612,7 @@
         "tname": "B",
         "sname": "田姝丽",
         "room_id": "5771865",
+        "member_id": "63571",
         "nickname": "甜甜、丽丽"
     },
     {
@@ -2293,6 +2620,7 @@
         "tname": "B",
         "sname": "熊素君",
         "room_id": "5778537",
+        "member_id": "63573",
         "nickname": "小熊"
     },
     {
@@ -2300,6 +2628,7 @@
         "tname": "B",
         "sname": "胡博文",
         "room_id": "",
+        "member_id": "",
         "nickname": "小纳米"
     },
     {
@@ -2307,6 +2636,7 @@
         "tname": "B",
         "sname": "刘姝贤",
         "room_id": "5771875",
+        "member_id": "327579",
         "nickname": "猪仙"
     },
     {
@@ -2314,6 +2644,7 @@
         "tname": "B",
         "sname": "青钰雯",
         "room_id": "5758970",
+        "member_id": "327581",
         "nickname": "鱼丸"
     },
     {
@@ -2321,6 +2652,7 @@
         "tname": "B",
         "sname": "孙姗",
         "room_id": "",
+        "member_id": "",
         "nickname": "33  姗宝"
     },
     {
@@ -2328,6 +2660,7 @@
         "tname": "B",
         "sname": "林溪荷",
         "room_id": "5771874",
+        "member_id": "327578",
         "nickname": "悠唐慈父"
     },
     {
@@ -2335,6 +2668,7 @@
         "tname": "B",
         "sname": "牛聪聪",
         "room_id": "",
+        "member_id": "",
         "nickname": "耳总"
     },
     {
@@ -2342,6 +2676,7 @@
         "tname": "B",
         "sname": "文妍",
         "room_id": "",
+        "member_id": "",
         "nickname": "潇潇  小金鱼 文言文"
     },
     {
@@ -2349,6 +2684,7 @@
         "tname": "B",
         "sname": "夏越",
         "room_id": "5758971",
+        "member_id": "327585",
         "nickname": "夏夏 橙橙"
     },
     {
@@ -2356,6 +2692,7 @@
         "tname": "B",
         "sname": "张梦慧",
         "room_id": "5782039",
+        "member_id": "327580",
         "nickname": "芝麻"
     },
     {
@@ -2363,6 +2700,7 @@
         "tname": "B",
         "sname": "吴月黎",
         "room_id": "",
+        "member_id": "",
         "nickname": "蛋蛋"
     },
     {
@@ -2370,6 +2708,7 @@
         "tname": "B",
         "sname": "毛其羽",
         "room_id": "9046720",
+        "member_id": "528118",
         "nickname": "猫吃鱼，猫仔，小笼猫"
     },
     {
@@ -2377,6 +2716,7 @@
         "tname": "B",
         "sname": "李沐遥",
         "room_id": "",
+        "member_id": "",
         "nickname": "木子，娘娘"
     },
     {
@@ -2384,6 +2724,7 @@
         "tname": "B",
         "sname": "孙晓艳",
         "room_id": "9021937",
+        "member_id": "528329",
         "nickname": "小眼，小幸运"
     },
     {
@@ -2391,6 +2732,7 @@
         "tname": "B",
         "sname": "刘崇恬",
         "room_id": "9066006",
+        "member_id": "528101",
         "nickname": "恬恬 Tina酱"
     },
     {
@@ -2398,6 +2740,7 @@
         "tname": "B",
         "sname": "郑依灵",
         "room_id": "",
+        "member_id": "",
         "nickname": "10"
     },
     {
@@ -2405,6 +2748,7 @@
         "tname": "B",
         "sname": "胡丽芝",
         "room_id": "9046692",
+        "member_id": "528094",
         "nickname": "梨汁 瑶瑶"
     },
     {
@@ -2412,6 +2756,7 @@
         "tname": "B",
         "sname": "沈小爱",
         "room_id": "9255077",
+        "member_id": "538697",
         "nickname": "兔子、大爱"
     },
     {
@@ -2419,6 +2764,7 @@
         "tname": "B",
         "sname": "周洁艺",
         "room_id": "21540553",
+        "member_id": "652652",
         "nickname": "树下、树树、麻雀"
     },
     {
@@ -2426,6 +2772,7 @@
         "tname": "B",
         "sname": "杨鑫",
         "room_id": "21329021",
+        "member_id": "652650",
         "nickname": "Jojo"
     },
     {
@@ -2433,6 +2780,7 @@
         "tname": "E",
         "sname": "毕梦媛",
         "room_id": "",
+        "member_id": "",
         "nickname": "yume  小媛"
     },
     {
@@ -2440,6 +2788,7 @@
         "tname": "E",
         "sname": "李想",
         "room_id": "5780835",
+        "member_id": "327594",
         "nickname": "想想"
     },
     {
@@ -2447,6 +2796,7 @@
         "tname": "E",
         "sname": "李媛媛",
         "room_id": "5777248",
+        "member_id": "327592",
         "nickname": "布丁"
     },
     {
@@ -2454,6 +2804,7 @@
         "tname": "E",
         "sname": "林堃",
         "room_id": "",
+        "member_id": "",
         "nickname": "honey"
     },
     {
@@ -2461,6 +2812,7 @@
         "tname": "E",
         "sname": "陈姣荷",
         "room_id": "5777246",
+        "member_id": "327588",
         "nickname": "大杏仁"
     },
     {
@@ -2468,6 +2820,7 @@
         "tname": "E",
         "sname": "陈倩楠",
         "room_id": "5770635",
+        "member_id": "327601",
         "nickname": "小巨人"
     },
     {
@@ -2475,6 +2828,7 @@
         "tname": "E",
         "sname": "冯思佳",
         "room_id": "5771876",
+        "member_id": "327587",
         "nickname": "小北 元素"
     },
     {
@@ -2482,6 +2836,7 @@
         "tname": "E",
         "sname": "李诗彦",
         "room_id": "",
+        "member_id": "",
         "nickname": "rainy  尔康"
     },
     {
@@ -2489,6 +2844,7 @@
         "tname": "E",
         "sname": "李梓",
         "room_id": "5777247",
+        "member_id": "327591",
         "nickname": "荔枝"
     },
     {
@@ -2496,6 +2852,7 @@
         "tname": "E",
         "sname": "刘胜男",
         "room_id": "5776965",
+        "member_id": "327602",
         "nickname": "小树"
     },
     {
@@ -2503,6 +2860,7 @@
         "tname": "E",
         "sname": "罗雪丽",
         "room_id": "5773805",
+        "member_id": "327589",
         "nickname": "Sherry,冰糖雪梨"
     },
     {
@@ -2510,6 +2868,7 @@
         "tname": "E",
         "sname": "马玉灵",
         "room_id": "5780836",
+        "member_id": "327596",
         "nickname": "玉子"
     },
     {
@@ -2517,6 +2876,7 @@
         "tname": "E",
         "sname": "苏杉杉",
         "room_id": "5776964",
+        "member_id": "327597",
         "nickname": "Air  33"
     },
     {
@@ -2524,6 +2884,7 @@
         "tname": "E",
         "sname": "顼凘炀",
         "room_id": "5780839",
+        "member_id": "327600",
         "nickname": "小星"
     },
     {
@@ -2531,6 +2892,7 @@
         "tname": "E",
         "sname": "郑一凡",
         "room_id": "5777250",
+        "member_id": "327595",
         "nickname": "麻球  琉媛"
     },
     {
@@ -2538,6 +2900,7 @@
         "tname": "E",
         "sname": "易妍倩",
         "room_id": "",
+        "member_id": "",
         "nickname": "aiko酱  爱酱"
     },
     {
@@ -2545,6 +2908,7 @@
         "tname": "E",
         "sname": "张笑盈",
         "room_id": "5780837",
+        "member_id": "327598",
         "nickname": "kona"
     },
     {
@@ -2552,6 +2916,7 @@
         "tname": "E",
         "sname": "李娜",
         "room_id": "",
+        "member_id": "",
         "nickname": "牙妹"
     },
     {
@@ -2559,6 +2924,7 @@
         "tname": "E",
         "sname": "杨一帆",
         "room_id": "5773820",
+        "member_id": "407135",
         "nickname": "木易"
     },
     {
@@ -2566,6 +2932,7 @@
         "tname": "E",
         "sname": "李烨",
         "room_id": "",
+        "member_id": "",
         "nickname": "火华宝，小叶子，小草莓"
     },
     {
@@ -2573,6 +2940,7 @@
         "tname": "E",
         "sname": "赵笛儿",
         "room_id": "9106599",
+        "member_id": "528334",
         "nickname": "笛儿 Dear"
     },
     {
@@ -2580,6 +2948,7 @@
         "tname": "E",
         "sname": "徐静",
         "room_id": "",
+        "member_id": "",
         "nickname": "小青蛙"
     },
     {
@@ -2587,6 +2956,7 @@
         "tname": "E",
         "sname": "黄子璇",
         "room_id": "9108720",
+        "member_id": "528331",
         "nickname": "39"
     },
     {
@@ -2594,6 +2964,7 @@
         "tname": "E",
         "sname": "李宗颐",
         "room_id": "20899904",
+        "member_id": "623832",
         "nickname": "咩咩"
     },
     {
@@ -2601,6 +2972,7 @@
         "tname": "E",
         "sname": "金鑫",
         "room_id": "20899897",
+        "member_id": "617948",
         "nickname": "多多"
     },
     {
@@ -2608,6 +2980,7 @@
         "tname": "E",
         "sname": "李娜",
         "room_id": "20939691",
+        "member_id": "623828",
         "nickname": "糖豆"
     },
     {
@@ -2615,6 +2988,7 @@
         "tname": "J",
         "sname": "刘闲",
         "room_id": "5777255",
+        "member_id": "407110",
         "nickname": "雪饼"
     },
     {
@@ -2622,6 +2996,7 @@
         "tname": "J",
         "sname": "任玥霖",
         "room_id": "5771883",
+        "member_id": "407114",
         "nickname": "好好 教主 未来"
     },
     {
@@ -2629,6 +3004,7 @@
         "tname": "J",
         "sname": "张怀瑾",
         "room_id": "5779224",
+        "member_id": "407127",
         "nickname": "锦鲤"
     },
     {
@@ -2636,6 +3012,7 @@
         "tname": "J",
         "sname": "葛司琪",
         "room_id": "5780843",
+        "member_id": "407104",
         "nickname": "葛格 鲜鲜"
     },
     {
@@ -2643,6 +3020,7 @@
         "tname": "J",
         "sname": "任心怡",
         "room_id": "5771882",
+        "member_id": "407112",
         "nickname": "柚柚 怡夏子"
     },
     {
@@ -2650,6 +3028,7 @@
         "tname": "J",
         "sname": "叶苗苗",
         "room_id": "5771885",
+        "member_id": "407124",
         "nickname": "喵喵 猫猫 甜心教主"
     },
     {
@@ -2657,6 +3036,7 @@
         "tname": "J",
         "sname": "张韩紫陌",
         "room_id": "5782041",
+        "member_id": "407130",
         "nickname": "yukari"
     },
     {
@@ -2664,6 +3044,7 @@
         "tname": "J",
         "sname": "李泓瑶",
         "room_id": "5777254",
+        "member_id": "407108",
         "nickname": "蛟娇 焦糖"
     },
     {
@@ -2671,6 +3052,7 @@
         "tname": "J",
         "sname": "孙语姗",
         "room_id": "5776969",
+        "member_id": "407121",
         "nickname": "yokie"
     },
     {
@@ -2678,6 +3060,7 @@
         "tname": "J",
         "sname": "杨晔",
         "room_id": "5777257",
+        "member_id": "407126",
         "nickname": "社长 二毛 日华"
     },
     {
@@ -2685,6 +3068,7 @@
         "tname": "J",
         "sname": "黄恩茹",
         "room_id": "5770638",
+        "member_id": "407106",
         "nickname": "ruru"
     },
     {
@@ -2692,6 +3076,7 @@
         "tname": "J",
         "sname": "房蕾",
         "room_id": "5777253",
+        "member_id": "407103",
         "nickname": "房总 蕾宝"
     },
     {
@@ -2699,6 +3084,7 @@
         "tname": "J",
         "sname": "石羽莎",
         "room_id": "5777256",
+        "member_id": "407119",
         "nickname": "暖暖 奶茶"
     },
     {
@@ -2706,6 +3092,7 @@
         "tname": "J",
         "sname": "单习文",
         "room_id": "",
+        "member_id": "",
         "nickname": "茜茜"
     },
     {
@@ -2713,6 +3100,7 @@
         "tname": "J",
         "sname": "王雨煊",
         "room_id": "5783234",
+        "member_id": "407168",
         "nickname": "芋圆"
     },
     {
@@ -2720,6 +3108,7 @@
         "tname": "J",
         "sname": "陈雅钰",
         "room_id": "5758973",
+        "member_id": "407101",
         "nickname": "多肉"
     },
     {
@@ -2727,6 +3116,7 @@
         "tname": "J",
         "sname": "许婉玉",
         "room_id": "5783244",
+        "member_id": "444081",
         "nickname": "猫丸儿 小猪肉"
     },
     {
@@ -2734,6 +3124,7 @@
         "tname": "J",
         "sname": "金锣赛",
         "room_id": "8967027",
+        "member_id": "528335",
         "nickname": "赛赛 小田螺 小金猪"
     },
     {
@@ -2741,6 +3132,7 @@
         "tname": "J",
         "sname": "乔钰珂",
         "room_id": "8961080",
+        "member_id": "528339",
         "nickname": "乔儿 小可乐"
     },
     {
@@ -2748,6 +3140,7 @@
         "tname": "J",
         "sname": "郑心雨",
         "room_id": "",
+        "member_id": "",
         "nickname": "小雨毛 心雨"
     },
     {
@@ -2755,6 +3148,7 @@
         "tname": "J",
         "sname": "刘一菲",
         "room_id": "8960034",
+        "member_id": "528337",
         "nickname": "一 一"
     },
     {
@@ -2762,6 +3156,7 @@
         "tname": "J",
         "sname": "兰昊",
         "room_id": "8951607",
+        "member_id": "528336",
         "nickname": "Alan、阿兰"
     },
     {
@@ -2769,6 +3164,7 @@
         "tname": "J",
         "sname": "何阳青青",
         "room_id": "19412890",
+        "member_id": "624121",
         "nickname": "小青十二月"
     },
     {
@@ -2776,6 +3172,7 @@
         "tname": "预备生",
         "sname": "周湘",
         "room_id": "24813484",
+        "member_id": "711746",
         "nickname": "香菜"
     },
     {
@@ -2783,6 +3180,7 @@
         "tname": "预备生",
         "sname": "李清雨",
         "room_id": "24679663",
+        "member_id": "711728",
         "nickname": "金克丝"
     },
     {
@@ -2790,6 +3188,7 @@
         "tname": "预备生",
         "sname": "彭嘉敏",
         "room_id": "24890786",
+        "member_id": "711732",
         "nickname": "彭彭"
     },
     {
@@ -2797,6 +3196,7 @@
         "tname": "预备生",
         "sname": "杨宇馨",
         "room_id": "24795114",
+        "member_id": "711741",
         "nickname": "馨宝、妮妮、不不、咩咩"
     },
     {
@@ -2804,6 +3204,7 @@
         "tname": "预备生",
         "sname": "楼澍",
         "room_id": "24767422",
+        "member_id": "711730",
         "nickname": "OO"
     },
     {
@@ -2811,6 +3212,7 @@
         "tname": "预备生",
         "sname": "张丹丹",
         "room_id": "24870598",
+        "member_id": "711745",
         "nickname": "dan"
     },
     {
@@ -2818,6 +3220,7 @@
         "tname": "预备生",
         "sname": "付奕萱",
         "room_id": "24737757",
+        "member_id": "711725",
         "nickname": "fufu"
     },
     {
@@ -2825,6 +3228,7 @@
         "tname": "预备生",
         "sname": "曲美霖",
         "room_id": "24852183",
+        "member_id": "711735",
         "nickname": "酥酥、Q酱"
     },
     {
@@ -2832,6 +3236,7 @@
         "tname": "预备生",
         "sname": "高蔚然",
         "room_id": "24679646",
+        "member_id": "711726",
         "nickname": "艾丽、艾琳娜"
     },
     {
@@ -2839,6 +3244,7 @@
         "tname": "预备生",
         "sname": "熊鑫",
         "room_id": "24737771",
+        "member_id": "711739",
         "nickname": "Au、三斤"
     },
     {
@@ -2846,6 +3252,7 @@
         "tname": "预备生",
         "sname": "李丽满",
         "room_id": "25406791",
+        "member_id": "825996",
         "nickname": "小满"
     },
     {
@@ -2853,6 +3260,7 @@
         "tname": "预备生",
         "sname": "程宇璐",
         "room_id": "25453851",
+        "member_id": "825969",
         "nickname": "小璐、妹妹、咕噜"
     },
     {
@@ -2860,6 +3268,7 @@
         "tname": "预备生",
         "sname": "任蔓琳",
         "room_id": "25606534",
+        "member_id": "831078",
         "nickname": "麦芽"
     },
     {
@@ -2867,6 +3276,7 @@
         "tname": "",
         "sname": "鞠婧祎",
         "room_id": "",
+        "member_id": "",
         "nickname": ""
     }
 ]
