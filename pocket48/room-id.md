@@ -4,7 +4,7 @@
 
 考虑到BEJ48 Team E中存在两位**同队同名**成员，增加**nickname**字段区分（要是昵称也能重的话，删库跑路吧，手动滑稽）。
 
-当然，为了方便起见，您也可以直接下载对应的Json文件--[room-id.json](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-id.json)。
+当然，为了方便起见，您也可以直接下载对应的[room-id.json](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-id.json)。
 
 ## 详情
 
