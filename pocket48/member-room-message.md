@@ -371,4 +371,5 @@ roomId | int/str | 成员房间id | Y |  |
 关于**role**（猜测）:
 
 **senderRole** == 1 表示房主（成员），在**extInfo**中，**role** == 0 时，表示另一成员的留言；**role** == 2 时，表示成员的留言。
+
 --> 2018-9-4: 发现直播通知消息 senderRole == role == 2。
