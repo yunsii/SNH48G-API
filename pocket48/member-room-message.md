@@ -370,6 +370,74 @@ roomId | int/str | 成员房间id | Y |  |
 
 关于**role**（猜测）:
 
+举例1：
+
+袁一琦在杨惠婷房间留言
+```python
+{
+    "msgidClient": "d3a081df-b750-41b5-8063-c35b6b7960ae",
+    "msgTime": 1535804478167,
+    "msgTimeStr": "2018-09-01 20:21:18",
+    "userId": 0,
+    "msgType": 0,
+    "bodys": "",
+    "extInfo": {
+        "source": "juju",
+        "fromApp": 2,
+        "messageObject": "text",
+        "senderAvatar": "/mediasource/avatar/20180828/1535463700844kfC2VWz53C.jpg",
+        "phoneName": "iPhone X",
+        "senderHonor": "",
+        "senderName": "袁一琦",
+        "senderId": 399669,
+        "version": "2.2.5",
+        "senderRole": 1,
+        "chatBackgroundBubbleName": "baba",
+        "build": 21100,
+        "platform": "ios",
+        "roomType": 1,
+        "sourceId": "5776912",
+        "contentType": 1,
+        "text": "再说黑猪真的友尽了",
+        "senderLevel": "HII",
+        "role": 0,
+        "phoneSystemVersion": "11.4.1"
+    }
+}
+```
+
+举例2：
+
+陈美君直播通知
+```python
+{
+    "msgidClient": "46554a1d-e8e1-4f4c-886d-74a7d9b4c965",
+    "msgTime": 1536054435694,
+    "msgTimeStr": "2018-09-04 17:47:15",
+    "userId": 0,
+    "msgType": 0,
+    "bodys": "正在直播",
+    "extInfo": {
+        "source": "juju",
+        "fromApp": 2,
+        "senderAvatar": "http://www.bej48.com/images/member/zp_20001.jpg?ram=1523268267365",
+        "senderId": "63549",
+        "senderName": "陈美君",
+        "role": 2,
+        "senderLevel": "B",
+        "senderRole": 2,
+        "platform": "server",
+        "roomType": 1,
+        "sourceId": "5778530",
+        "contentType": 1,
+        "messageObject": "live",
+        "referenceTitle": "陈美君的直播间",
+        "referenceContent": "直播啦",
+        "referencecoverImage": "/mediasource/live/1535801343816Lvyb88c4TJ.jpg",
+        "referenceObjectId": "5b8e549e0cf2f04fd1e12ab2"
+    }
+}
+```
 **senderRole** == 1 表示房主（成员），在**extInfo**中，**role** == 0 时，表示另一成员的留言；**role** == 2 时，表示成员的留言。
 
 --> 2018-9-4: 发现直播通知消息 senderRole == role == 2。
