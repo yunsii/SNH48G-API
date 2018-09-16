@@ -7,16 +7,16 @@ https://pjuju.48.cn/imsystem/api/im/v1/member/room/message/mainpage
 ## 请求头：
 ```python
 {
-        # 'Host': 'pjuju.48.cn',
-        # 'version': '5.0.1',
-        # 'os': 'android',
-        # 'Accept-Encoding': 'gzip',
-        # 'IMEI': '866341038102845',
-        # 'User-Agent': 'Mobile_Pocket',
-        # 'Content-Length': '67',
-        # 'Connection': 'Keep-Alive',
-        'Content-Type': 'application/json;charset=utf-8',
-        'token': {token}
+        # "Host": "pjuju.48.cn",
+        # "version": "5.0.1",
+        # "os": "android",
+        # "Accept-Encoding": "gzip",
+        # "IMEI": "866341038102845",
+        # "User-Agent": "Mobile_Pocket",
+        # "Content-Length": "67",
+        # "Connection": "Keep-Alive",
+        "Content-Type": "application/json;charset=utf-8",
+        "token": {token}
     }
 ```
 

@@ -7,16 +7,16 @@ https://puser.48.cn/usersystem/api/user/v1/check/in
 ## 请求头：
 ```python
 {
-    'Host': 'puser.48.cn',
-    'version': '5.0.1',
-    'os': 'android',
-    'Accept-Encoding': 'gzip',
-    'IMEI': '866716037125810',
-    'User-Agent': 'Mobile_Pocket',
-    'Content-Length': '2',
-    'Connection': 'Keep-Alive',
-    'Content-Type': 'application/json;charset=utf-8',
-    'token': {token}
+    "Host": "puser.48.cn",
+    "version": "5.0.1",
+    "os": "android",
+    "Accept-Encoding": "gzip",
+    "IMEI": "866716037125810",
+    "User-Agent": "Mobile_Pocket",
+    "Content-Length": "2",
+    "Connection": "Keep-Alive",
+    "Content-Type": "application/json;charset=utf-8",
+    "token": {token}
 }
 ```
 

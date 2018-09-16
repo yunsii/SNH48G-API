@@ -7,9 +7,9 @@ https://plive.48.cn/livesystem/api/live/v1/openLivePage
 ## 请求头：
 ```python
 {
-    'version': '5.0.1',
-    'os': 'android',
-    'Content-Type': 'application/json;charset=utf-8',
+    "version": "5.0.1",
+    "os": "android",
+    "Content-Type": "application/json;charset=utf-8",
 }
 ```
 
