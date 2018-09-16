@@ -16,7 +16,7 @@ https://puser.48.cn/usersystem/api/user/v1/check/in
     "Content-Length": "2",
     "Connection": "Keep-Alive",
     "Content-Type": "application/json;charset=utf-8",
-    "token": {token}
+    "token": "{token}"
 }
 ```
 

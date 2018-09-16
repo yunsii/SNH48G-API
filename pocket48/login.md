@@ -25,8 +25,8 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
 {
     "latitude": 0,
     "longitude": 0,
-    "password": {password},
-    "account": {account}
+    "password": "{password}",
+    "account": "{account}"
 }
 ```
 
