@@ -9,7 +9,7 @@ https://plive.48.cn/livesystem/api/live/v1/memberLivePage
 {
     "version": "5.0.1",
     "os": "android",
-    "Content-Type": "application/json;charset=utf-8",
+    "Content-Type": "application/json;charset=utf-8"
 }
 ```
 
