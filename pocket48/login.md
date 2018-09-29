@@ -55,17 +55,17 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
         "token": "xxxxxx",
         "bindInfo": [
             {
-              "type": 0, "thirdName": "xxxxxx"  # 微博
+              "type": 0, "thirdName": "XXXXXX"  # 微博
             }, {
-              "type": 1, "thirdName": "xxxxxx"  # QQ
+              "type": 1, "thirdName": "XXXXXX"  # QQ
             }, {
-              "type": 2, "thirdName": "xxxxxx"  # 微信
+              "type": 2, "thirdName": "XXXXXX"  # 微信
             }, {
-              "type": 4, "thirdName": "xxxxxx"  # 手机
+              "type": 4, "thirdName": "XXXXXX"  # 手机
             }, {
-              "type": 5, "thirdName": "xxxxxx"  # 百度
+              "type": 5, "thirdName": "XXXXXX"  # 百度
             }, {
-              "type": 3, "thirdName": "xxxxxx"  # 丝瓜
+              "type": 3, "thirdName": "XXXXXX"  # 丝瓜
             }
         ],
         "friends": [5, 28, 45, 63, 1544, 2508, 5566, 49007, 63549, 63554, 63555, 63559, 63560, 63571, 63572, 286977, 327560, 327567, 327569, 327581, 327591, 327596, 327597, 327600, 399669, 407106, 407127, 417320, 417328, 417333, 459999, 460005, 528094, 530452, 538735, 594003, 617948, 652650, 825996],
