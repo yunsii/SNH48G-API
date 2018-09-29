@@ -7,9 +7,7 @@ API中**输入参数**使用变量名占位：
 ```
 {name}
 ```
-相关隐私信息中**数字**按位取1：1990 -> 1111；**字符串**统一用'xxxxxx'替换。
-
-添加API测试方法[request_test.py](https://github.com/theprimone/SNH48G-API/blob/master/request_test.py)，基于自写简单工具包[theprimone.py](https://github.com/theprimone/theprimone/blob/master/theprimone.py)
+相关隐私信息中**数字**按位取1：1990 -> 1111；**字符串**统一用'XXXXXX'替换。
 
 ## room-id
 
@@ -26,6 +24,7 @@ API中**输入参数**使用变量名占位：
 4. [成员直播详情API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/live-detail.md)
 5. [成员房间消息API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-room-message.md)
 6. [打卡API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/check-in.md)
+7. [登录用户信息API](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/user-info.md)
 
 ### 官网（OS - Official Site）
 1. [条件查询成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/members.md)
