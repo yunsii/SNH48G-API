@@ -4,6 +4,7 @@ API:
 
 https://puser.48.cn//usersystem/api/user/member/v1/fans/room
 
+根据memberId获取成员房间基本信息
 ## 请求头：
 ```python
 {
