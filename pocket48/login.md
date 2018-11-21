@@ -52,7 +52,7 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
             "starwo": False,
             "phoneType": 0
         },
-        "token": "xxxxxx",
+        "token": "xxxxxx",  # 经测试 token 有效期为一个月
         "bindInfo": [
             {
               "type": 0, "thirdName": "XXXXXX"  # 微博
