@@ -1,43 +1,51 @@
 # 成员信息
 
-API:
+GET
+
 http://h5.snh48.com/resource/jsonp/members.php
 
 ## 说明
+
 根据条件查询团体成员基本信息
 
 
-## 请求头：
+## 请求头
+
 ```python
 {
     # 无
 }
 ```
 
-## 请求参数(非表单,必填)：
+## 查询参数(必填)
+
 ```python
 {
-    "gid": 10  # "10"
+    "gid": 10  # http://h5.snh48.com/resource/jsonp/members.php?gid=10
 }
 ```
 
-## 请求参数说明：
-名称 | 类型 | 说明 | 必填 | 默认值 | 备注
-------- | -------- | ------- | ---- | ----- | ----
-gid | int/ str | group id | Y |  | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
+## 查询参数说明
+
+名称 | 说明 | 必填 | 备注
+------- | ------- | ----- | ----
+gid | group id | Y | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 
 ### 小提示：
+
 响应为 **jsonp**格式
 
 当gid为乱码，例如
+
 ```python
 {
     "gid": "xx"
 }
 ```
-返回全团成员信息
 
-且 已知熊心瑶有sid为30031和50015两条信息
+返回全团成员信息。
+
+另，已知熊心瑶有sid为30031和50015两条信息。
 
 ## 响应：
 
@@ -117,6 +125,7 @@ gid | int/ str | group id | Y |  | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 ```
 
 #### gid为乱码时：
+
 ```python
 {
     "total": "409",

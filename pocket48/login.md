@@ -1,10 +1,11 @@
 # 登录
 
-API:
+POST
 
 https://puser.48.cn/usersystem/api/user/v1/login/phone
 
-## 请求头：
+## 请求头
+
 ```python
 {
     "Host": "puser.48.cn",
@@ -20,7 +21,8 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
 }
 ```
 
-## 表单数据：
+## 表单
+
 ```python
 {
     "latitude": 0,
@@ -30,9 +32,10 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
 }
 ```
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
+
 ```python
 {
     "status": 200,

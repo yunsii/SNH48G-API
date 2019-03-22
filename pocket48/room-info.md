@@ -1,11 +1,13 @@
-# 登录
+# 房间信息
 
-API:
+POST
 
 https://puser.48.cn//usersystem/api/user/member/v1/fans/room
 
-根据memberId获取成员房间基本信息
-## 请求头：
+根据 memberId 获取成员房间基本信息
+
+## 请求头
+
 ```python
 {
     "Host": "puser.48.cn",
@@ -21,16 +23,18 @@ https://puser.48.cn//usersystem/api/user/member/v1/fans/room
 }
 ```
 
-## 表单数据：
+## 表单
+
 ```python
 {
     "memberId": 63560  # 成员id
 }
 ```
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
+
 ```python
 {
 	"status": 200,

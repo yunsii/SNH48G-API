@@ -1,22 +1,25 @@
 # SNH48成员信息
 
-API:
+GET
+
 http://www.snh48.com/mobile/json/top-snh.json
 
 ## 说明
+
 SNH48所有成员(包含暂休)基本信息不包含Ft成员
 
 
-## 请求头：
+## 请求头
+
 ```python
 {
     # 无
 }
 ```
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
 
 ```python
 {

@@ -1,20 +1,24 @@
 # EP信息
 
-API:
+GET
+
 http://www.snh48.com/mobile/json/music.json
 
 ## 说明
+
 查询EP信息
 
 
-## 请求头：
+## 请求头
+
 ```python
 {
     # 无
 }
 ```
 
-## 请求参数：
+## 请求参数
+
 ```python
 {
     # 无

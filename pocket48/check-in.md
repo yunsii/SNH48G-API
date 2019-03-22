@@ -1,10 +1,11 @@
-# 登录
+# 打卡
 
-API:
+POST
 
 https://puser.48.cn/usersystem/api/user/v1/check/in
 
-## 请求头：
+## 请求头
+
 ```python
 {
     "Host": "puser.48.cn",
@@ -20,15 +21,18 @@ https://puser.48.cn/usersystem/api/user/v1/check/in
 }
 ```
 
-## 表单数据：
+## 表单
+
 ```python
 {}
 ```
+
 抓包测试发现为空表单post请求
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
+
 ```python
 {
     "status": 200,
@@ -41,7 +45,8 @@ https://puser.48.cn/usersystem/api/user/v1/check/in
 }
 ```
 
-### 重复请求:
+### 重复请求
+
 ```python
 {
     "status": 1001006,

@@ -1,10 +1,11 @@
 # 直播详情
 
-API:
+POST
 
 https://plive.48.cn/livesystem/api/live/v1/getLiveOne
 
-## 请求头：
+## 请求头
+
 ```python
 {
     "version": "5.0.1",
@@ -13,7 +14,8 @@ https://plive.48.cn/livesystem/api/live/v1/getLiveOne
 }
 ```
 
-## 表单数据：
+## 表单
+
 ```python
 {
     "type": 1,
@@ -22,14 +24,16 @@ https://plive.48.cn/livesystem/api/live/v1/getLiveOne
 }
 ```
 
-## 已知表单参数说明：
+## 已知表单参数说明
+
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ------- | ---- | ----- | ----
 type | int | 是否回放 | Y | 0 | 1-视频/ 2-电台
 userId | int |  | N | 0 | 
 liveId | str | 直播id | Y |  | 
 
-## 提示：
+## 提示
+
 经测试，必填信息不填返回信息：
 ```python
 {
@@ -38,11 +42,10 @@ liveId | str | 直播id | Y |  |
 }
 ```
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
 
-####
 ```python
 {
     "status": 200,

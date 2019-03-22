@@ -1,10 +1,11 @@
 # 成员房间消息
 
-API:
+POST
 
 https://pjuju.48.cn/imsystem/api/im/v1/member/room/message/mainpage
 
-## 请求头：
+## 请求头
+
 ```python
 {
         # "Host": "pjuju.48.cn",
@@ -20,13 +21,15 @@ https://pjuju.48.cn/imsystem/api/im/v1/member/room/message/mainpage
     }
 ```
 
-## 已知请求参数说明：
+## 已知请求头参数说明
+
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ---- | ---- | ----- | ----
-Content-Type | str | 接收类型 | Y |  | 
+Content-Type | str |  | Y |  | 
 token | str |  | Y |  | 登录后获取
 
-## 表单数据：
+## 表单
+
 ```python
 {
     "lastTime": 0,
@@ -36,17 +39,17 @@ token | str |  | Y |  | 登录后获取
 }
 ```
 
-## 已知表单参数说明：
+## 已知表单参数说明
+
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ---- | ---- | ----- | ----
 limit | int/str | 消息限制 | Y |  | 
 roomId | int/str | 成员房间id | Y |  | 
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
 
-####
 ```python
 {
     "status": 200,
@@ -368,11 +371,12 @@ roomId | int/str | 成员房间id | Y |  |
 | 5 | live | 视频直播 |
 | 6 | diantai | 电台直播 |
 
-关于**role**（猜测）:
+关于**role**（猜测）
 
-举例1：
+举例1
 
 袁一琦在杨惠婷房间留言
+
 ```python
 {
     "msgidClient": "d3a081df-b750-41b5-8063-c35b6b7960ae",
@@ -406,9 +410,10 @@ roomId | int/str | 成员房间id | Y |  |
 }
 ```
 
-举例2：
+举例2
 
 陈美君直播通知
+
 ```python
 {
     "msgidClient": "46554a1d-e8e1-4f4c-886d-74a7d9b4c965",
@@ -444,4 +449,4 @@ roomId | int/str | 成员房间id | Y |  |
 | 1 | 2 | 成员（房主）留言 |
 | 2 | 2 | 成员直播通知 |
 
---> 2018-9-4: 发现直播通知消息 senderRole == role == 2。
+* 2018-9-4: 发现直播通知消息 senderRole == role == 2。

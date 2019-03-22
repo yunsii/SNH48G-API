@@ -1,22 +1,25 @@
 # GNZ48成员信息
 
-API:
+GET
+
 http://www.snh48.com/mobile/json/top-gnz.json
 
 ## 说明
+
 GNZ48所有成员基本信息
 
 
-## 请求头：
+## 请求头
+
 ```python
 {
     # 无
 }
 ```
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
 
 ```python
 {

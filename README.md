@@ -1,19 +1,22 @@
 # SNH48G-API:heart:
+
 收集整理关于SNH48Group的API，包括口袋48，官网，微博等
 
 ## 相关说明
 
-API中**输入参数**使用变量名占位：
+API中**输入参数**使用变量名占位
+
 ```
 {name}
 ```
+
 相关隐私信息中**数字**按位取1：1990 -> 1111；**字符串**统一用'XXXXXX'替换。
 
 ## room-id
 
 获取房间消息等请求涉及到的必输字段，详情见[room-id](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-id.md)。
 
-## APIs List:
+## APIs List
 
 分类按**添加时间**排序
 
@@ -46,6 +49,7 @@ API中**输入参数**使用变量名占位：
 | 9 | [活动信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/event.md) | 2018-08-27|
 
 ### 备注
+
 1. 已知**SNH48成员信息**中所有成员基本信息不包含Ft成员
 
 ### JSON
