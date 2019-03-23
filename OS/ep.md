@@ -25,9 +25,9 @@ http://www.snh48.com/mobile/json/music.json
 }
 ```
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
 
 ```python
 {

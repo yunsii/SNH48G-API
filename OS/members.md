@@ -31,7 +31,7 @@ http://h5.snh48.com/resource/jsonp/members.php
 ------- | ------- | ----- | ----
 gid | group id | Y | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 
-### 小提示：
+### 小提示
 
 响应为 **jsonp**格式
 
@@ -47,9 +47,9 @@ gid | group id | Y | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 
 另，已知熊心瑶有sid为30031和50015两条信息。
 
-## 响应：
+## 响应
 
-### 成功：
+### 成功
 
 ```python
 {
@@ -124,7 +124,7 @@ gid | group id | Y | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 }
 ```
 
-#### gid为乱码时：
+#### gid为乱码时
 
 ```python
 {
