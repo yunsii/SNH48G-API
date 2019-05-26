@@ -1,17 +1,15 @@
 # EP信息
 
-## 接口
-
 GET
 
 http://www.snh48.com/mobile/json/music.json
 
-### 说明
+## 说明
 
 查询EP信息
 
 
-### 请求头
+## 请求头
 
 ```python
 {
@@ -19,7 +17,7 @@ http://www.snh48.com/mobile/json/music.json
 }
 ```
 
-### 请求参数
+## 请求参数
 
 ```python
 {
@@ -27,9 +25,7 @@ http://www.snh48.com/mobile/json/music.json
 }
 ```
 
-### 响应
-
-#### 成功
+## 响应
 
 ```python
 {

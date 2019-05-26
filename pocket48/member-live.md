@@ -1,12 +1,10 @@
 # 成员直播
 
-## 接口
-
 POST
 
 https://plive.48.cn/livesystem/api/live/v1/memberLivePage
 
-### 请求头
+## 请求头
 
 ```python
 {
@@ -16,7 +14,7 @@ https://plive.48.cn/livesystem/api/live/v1/memberLivePage
 }
 ```
 
-### 表单
+## 表单
 
 ```python
 {
@@ -29,7 +27,7 @@ https://plive.48.cn/livesystem/api/live/v1/memberLivePage
 }
 ```
 
-### 已知表单参数说明（根据[group-live](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/group-live.md)推测，未验证）
+## 已知表单参数说明（根据[group-live](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/group-live.md)推测，未验证）
 
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ------- | ---- | ----- | ----
@@ -40,7 +38,7 @@ memberId | int |  | N |  |
 giftUpdTime | int | 礼物更新时间 | N |  | 
 limit | int |  | N |  | 配置前后都返回全部直播信息
 
-### 提示
+## 提示
 
 经测试，即使表单为空也要发送，否则返回报错信息：
 
@@ -53,9 +51,7 @@ limit | int |  | N |  | 配置前后都返回全部直播信息
 }
 ```
 
-### 响应
-
-#### 成功
+## 响应
 
 ```python
 {

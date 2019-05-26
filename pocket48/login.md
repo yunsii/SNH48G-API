@@ -1,12 +1,10 @@
 # 登录
 
-## 接口
-
 POST
 
 https://puser.48.cn/usersystem/api/user/v1/login/phone
 
-### 请求头
+## 请求头
 
 ```python
 {
@@ -23,7 +21,7 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
 }
 ```
 
-### 表单
+## 表单
 
 ```python
 {
@@ -34,9 +32,7 @@ https://puser.48.cn/usersystem/api/user/v1/login/phone
 }
 ```
 
-### 响应
-
-#### 成功
+## 响应
 
 ```python
 {

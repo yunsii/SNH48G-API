@@ -1,17 +1,15 @@
 # BEJ48成员信息
 
-## 接口
-
 GET
 
 http://www.snh48.com/mobile/json/top-bej.json
 
-### 说明
+## 说明
 
 BEJ48所有成员基本信息
 
 
-### 请求头
+## 请求头
 
 ```python
 {
@@ -19,9 +17,7 @@ BEJ48所有成员基本信息
 }
 ```
 
-### 响应
-
-#### 成功
+## 响应
 
 ```python
 {
