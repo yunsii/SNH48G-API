@@ -27,15 +27,15 @@ API 中**输入参数**使用变量名占位
 
 | 序号 | 功能 | 更新时间 | 备注 |
 | ---- | :--- | :-------- | :-- |
-| 1 | [登录](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/login.md) | 2018-08-26 |  |
-| 2 | [公演直播](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/group-live.md) | 2018-08-26 |  |
-| 3 | [成员直播](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-live.md) | 2018-08-27 |  |
-| 4 | [成员直播详情](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/live-detail.md) | 2018-08-27|  |
-| 5 | [成员房间消息](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-room-message.md) | 2018-08-28|  |
-| 6 | [打卡](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/check-in.md) | 2018-09-01|  |
-| 7 | [登录用户信息](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/user-info.md) | 2018-09-29|  |
-| 8 | [成员房间基本信息](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-info.md) | 2018-10-09| room-id |
-| 9 | [缓存数据](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/overview.md) | 2018-10-09| 成员信息 |
+| 1 | [~~登录~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/login.md) | 2018-08-26 |  |
+| 2 | [~~公演直播~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/group-live.md) | 2018-08-26 |  |
+| 3 | [~~成员直播~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-live.md) | 2018-08-27 |  |
+| 4 | [~~成员直播详情~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/live-detail.md) | 2018-08-27|  |
+| 5 | [~~成员房间消息~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/member-room-message.md) | 2018-08-28|  |
+| 6 | [~~打卡~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/check-in.md) | 2018-09-01|  |
+| 7 | [~~登录用户信息~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/user-info.md) | 2018-09-29|  |
+| 8 | [~~成员房间基本信息~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-info.md) | 2018-10-09| room-id |
+| 9 | [~~缓存数据~~](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/overview.md) | 2018-10-09| 成员信息 |
 
 #### 官网（OS - Official Site）
 
