@@ -195,7 +195,11 @@ http://www.bej48.com/index/ticket/category_data.html
 
 ### 请求头
 
-无
+```python
+{
+    "X-Requested-With": "XMLHttpRequest"
+}
+```
 
 ### 表单参数
 
