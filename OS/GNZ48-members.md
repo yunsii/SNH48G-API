@@ -8,7 +8,6 @@ http://www.snh48.com/mobile/json/top-gnz.json
 
 无
 
-
 ## 响应
 
 ```python

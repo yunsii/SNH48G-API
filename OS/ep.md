@@ -10,11 +10,7 @@ http://www.snh48.com/mobile/json/music.json
 
 ## 请求参数
 
-```python
-{
-    # 无
-}
-```
+无
 
 ## 响应
 
