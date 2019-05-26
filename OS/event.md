@@ -4,18 +4,9 @@ GET
 
 http://www.snh48.com/mobile/json/event.json
 
-## 说明
-
-查询活动信息
-
-
 ## 请求头
 
-```python
-{
-    # 无
-}
-```
+无
 
 ## 请求参数
 

@@ -1,21 +1,12 @@
-# CKG48成员信息
+# CKG48 成员信息
 
 GET
 
 http://www.snh48.com/mobile/json/top-ckg.json
 
-## 说明
-
-CKG48所有成员基本信息
-
-
 ## 请求头
 
-```python
-{
-    # 无
-}
-```
+无
 
 ## 响应
 

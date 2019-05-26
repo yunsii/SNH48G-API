@@ -2,7 +2,8 @@
 
 收集整理关于 SNH48 Group 的 API ，包括口袋 48 ，官网，微博等
 
-* [2019-4-15 20:06:05]今天得知丝芭重做了 APP ，所以 APP 的接口凉了， 而且打卡也没鸡腿了。
+* [2019-04-15 20:06:05] 今天得知丝芭重做了 APP ，所以 APP 的接口凉了， 而且打卡也没鸡腿了。
+* [2019-05-26 16:24:38] 票务信息接口更新，可查询全团票务
 
 ### 相关说明
 
@@ -46,9 +47,9 @@ API 中**输入参数**使用变量名占位
 | 4 | [GNZ48 成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/GNZ48-members.md) | 2018-08-26 |
 | 5 | [SHY48 成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/SHY48-members.md) | 2018-08-26 |
 | 6 | [CKG48 成员信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/CKG48-members.md) | 2018-08-26 |
-| 7 | [票务信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/tickets-info.md) | 2018-08-27|
-| 8 | [EP 信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/ep.md) | 2018-08-27|
-| 9 | [活动信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/event.md) | 2018-08-27|
+| 7 | [票务信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/tickets-info.md) | 2019-05-26 |
+| 8 | [EP 信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/ep.md) | 2018-08-27 |
+| 9 | [活动信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/event.md) | 2018-08-27 |
 
 #### 备注
 

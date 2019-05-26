@@ -1,21 +1,12 @@
-# SHY48成员信息
+# SHY48 成员信息
 
 GET
 
 http://www.snh48.com/mobile/json/top-shy.json
 
-## 说明
-
-SHY48所有成员基本信息
-
-
 ## 请求头
 
-```python
-{
-    # 无
-}
-```
+无
 
 ## 响应
 

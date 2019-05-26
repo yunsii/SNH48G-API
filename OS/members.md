@@ -4,18 +4,13 @@ GET
 
 http://h5.snh48.com/resource/jsonp/members.php
 
-## 说明
-
 根据条件查询团体成员基本信息
 
 
 ## 请求头
 
-```python
-{
-    # 无
-}
-```
+无
+
 
 ## 查询参数(必填)
 
