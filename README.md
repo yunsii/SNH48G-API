@@ -4,7 +4,7 @@
 
 * [2019-4-15 20:06:05]今天得知丝芭重做了 APP ，所以 APP 的接口凉了， 而且打卡也没鸡腿了。
 
-## 相关说明
+### 相关说明
 
 API 中**输入参数**使用变量名占位
 
@@ -14,15 +14,15 @@ API 中**输入参数**使用变量名占位
 
 相关隐私信息中**数字**按位取 1：1990 -> 1111；**字符串**统一用'XXXXXX'替换。
 
-## room-id
+### room-id
 
 获取房间消息等请求涉及到的必输字段，详情见 [room-id](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-id.md) 。
 
-## APIs List
+### APIs List
 
 分类按**添加时间**排序
 
-### 口袋 48（pocket48）
+#### 口袋 48（pocket48）
 
 | 序号 | 功能 | 更新时间 | 备注 |
 | ---- | :--- | :-------- | :-- |
@@ -36,7 +36,7 @@ API 中**输入参数**使用变量名占位
 | 8 | [成员房间基本信息](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/room-info.md) | 2018-10-09| room-id |
 | 9 | [缓存数据](https://github.com/theprimone/SNH48G-API/blob/master/pocket48/overview.md) | 2018-10-09| 成员信息 |
 
-### 官网（OS - Official Site）
+#### 官网（OS - Official Site）
 
 | 序号 | 功能 | 更新时间 |
 | ---- | :--- | :-------- |
@@ -50,11 +50,11 @@ API 中**输入参数**使用变量名占位
 | 8 | [EP 信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/ep.md) | 2018-08-27|
 | 9 | [活动信息](https://github.com/theprimone/SNH48G-API/blob/master/OS/event.md) | 2018-08-27|
 
-### 备注
+#### 备注
 
 1. 已知 **SNH48 成员信息**中所有成员基本信息不包含 Ft 成员
 
-### JSON
+#### JSON
 
 可通过 JSON 文件夹下的相关 json 文件实现快速配置请求相关参数
 

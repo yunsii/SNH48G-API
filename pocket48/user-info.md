@@ -1,12 +1,14 @@
 # 用户相关信息
 
+## 接口
+
 POST
 
 https://puser.48.cn/usersystem/api/user/v1/login/{user_id}
 
 **注意**：该API链接需要替换占位符为登录时获取的本用户id
 
-## 请求头
+### 请求头
 
 ```python
 {
@@ -23,15 +25,13 @@ https://puser.48.cn/usersystem/api/user/v1/login/{user_id}
 }
 ```
 
-## 表单
+### 表单
 
 ```python
 {}
 ```
 
-## 响应
-
-### 成功
+### 响应
 
 ```python
 {

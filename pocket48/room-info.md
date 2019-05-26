@@ -1,12 +1,14 @@
 # 房间信息
 
+## 接口
+
 POST
 
 https://puser.48.cn//usersystem/api/user/member/v1/fans/room
 
 根据 memberId 获取成员房间基本信息
 
-## 请求头
+### 请求头
 
 ```python
 {
@@ -23,7 +25,7 @@ https://puser.48.cn//usersystem/api/user/member/v1/fans/room
 }
 ```
 
-## 表单
+### 表单
 
 ```python
 {
@@ -31,9 +33,7 @@ https://puser.48.cn//usersystem/api/user/member/v1/fans/room
 }
 ```
 
-## 响应
-
-### 成功
+### 响应
 
 ```python
 {

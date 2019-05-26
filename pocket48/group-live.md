@@ -1,10 +1,12 @@
 # 公演直播
 
+## 接口
+
 POST
 
 https://plive.48.cn/livesystem/api/live/v1/openLivePage
 
-## 请求头
+### 请求头
 
 ```python
 {
@@ -14,7 +16,7 @@ https://plive.48.cn/livesystem/api/live/v1/openLivePage
 }
 ```
 
-## 表单
+### 表单
 
 ```python
 {
@@ -29,7 +31,7 @@ https://plive.48.cn/livesystem/api/live/v1/openLivePage
 }
 ```
 
-## 已知表单参数说明
+### 已知表单参数说明
 
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ------- | ---- | ----- | ----
@@ -42,7 +44,7 @@ type | int |  | N |  |
 giftUpdTime | int | 礼物更新时间 | N |  | 
 limit | int |  | N |  | 配置前后都返回全部直播信息
 
-## 提示
+### 提示
 
 经测试，即使表单为空也要发送，否则返回报错信息：
 
@@ -55,11 +57,11 @@ limit | int |  | N |  | 配置前后都返回全部直播信息
 }
 ```
 
-## 响应
+### 响应
 
-### 成功
+#### 成功
 
-#### isReview : 0
+###### isReview : 0
 
 ```python
 {
@@ -107,7 +109,7 @@ limit | int |  | N |  | 配置前后都返回全部直播信息
 }
 ```
 
-#### isReview : 1  # 回放
+###### isReview : 1  # 回放
 
 ```python
 {

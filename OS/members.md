@@ -1,15 +1,17 @@
 # 成员信息
 
+## 接口
+
 GET
 
 http://h5.snh48.com/resource/jsonp/members.php
 
-## 说明
+### 说明
 
 根据条件查询团体成员基本信息
 
 
-## 请求头
+### 请求头
 
 ```python
 {
@@ -17,7 +19,7 @@ http://h5.snh48.com/resource/jsonp/members.php
 }
 ```
 
-## 查询参数(必填)
+### 查询参数(必填)
 
 ```python
 {
@@ -25,13 +27,13 @@ http://h5.snh48.com/resource/jsonp/members.php
 }
 ```
 
-## 查询参数说明
+### 查询参数说明
 
 名称 | 说明 | 必填 | 备注
 ------- | ------- | ----- | ----
 gid | group id | Y | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 
-### 小提示
+#### 小提示
 
 响应为 **jsonp**格式
 
@@ -47,9 +49,9 @@ gid | group id | Y | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 
 另，已知熊心瑶有sid为30031和50015两条信息。
 
-## 响应
+### 响应
 
-### 成功
+#### 成功
 
 ```python
 {
@@ -124,7 +126,7 @@ gid | group id | Y | 10-SNH/ 11-BEJ/ 12-GNZ/ 13-SHY48/ 14-CKG48
 }
 ```
 
-#### gid为乱码时
+###### gid为乱码时
 
 ```python
 {

@@ -1,15 +1,17 @@
 # 活动信息
 
+## 接口
+
 GET
 
 http://www.snh48.com/mobile/json/event.json
 
-## 说明
+### 说明
 
 查询活动信息
 
 
-## 请求头
+### 请求头
 
 ```python
 {
@@ -17,7 +19,7 @@ http://www.snh48.com/mobile/json/event.json
 }
 ```
 
-## 请求参数
+### 请求参数
 
 ```python
 {
@@ -25,9 +27,9 @@ http://www.snh48.com/mobile/json/event.json
 }
 ```
 
-## 响应
+### 响应
 
-### 成功
+#### 成功
 
 ```python
 {

@@ -1,10 +1,12 @@
 # 成员房间消息
 
+## 接口
+
 POST
 
 https://pjuju.48.cn/imsystem/api/im/v1/member/room/message/mainpage
 
-## 请求头
+### 请求头
 
 ```python
 {
@@ -21,14 +23,14 @@ https://pjuju.48.cn/imsystem/api/im/v1/member/room/message/mainpage
     }
 ```
 
-## 已知请求头参数说明
+### 已知请求头参数说明
 
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ---- | ---- | ----- | ----
 Content-Type | str |  | Y |  | 
 token | str |  | Y |  | 登录后获取
 
-## 表单
+### 表单
 
 ```python
 {
@@ -39,16 +41,16 @@ token | str |  | Y |  | 登录后获取
 }
 ```
 
-## 已知表单参数说明
+### 已知表单参数说明
 
 名称 | 类型 | 说明 | 必填 | 默认值 | 备注
 ------- | -------- | ---- | ---- | ----- | ----
 limit | int/str | 消息限制 | Y |  | 
 roomId | int/str | 成员房间id | Y |  | 
 
-## 响应
+### 响应
 
-### 成功
+#### 成功
 
 ```python
 {
