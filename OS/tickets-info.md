@@ -2,7 +2,297 @@
 
 经研究，SNH48 和 GNZ48 后台应该是同一套系统，接口有路由和响应结果上的差别。而 BEJ48 是另一套系统，从接口的方式和响应字段都有明显的差别。CKG48 后台又是一套系统。
 
-## SNH48 Group 票务信息（精简版）
+更新：2019年10月14日，官网 www.snh48.com 新版本上线。大部分票务信息API失效。
+目前官网部分页面仍在使用旧的API，所以也无法显示。或许官方会恢复旧版API接口以修复官网的问题。因此，本文中失效的API暂时不删除。
+
+## SNH48 Group 票务信息（2019年10月14日新增）
+
+GET
+
+http://api.snh48.com/getticketinfo.php?act=choose&date=2019-10&gid=1&team=ALL
+
+### 请求头
+
+无
+
+### 查询参数说明
+act：必填`choose`
+date：查询年月，如 `2019-10`
+gid：group id，上海是`1`.
+team：可填`ALL`表示当前gid下所有队伍。
+
+### 响应
+
+```python
+{
+  "status": "200",
+  "desc": [
+    {
+      "title": "S队《重生计划》 剧场公演",
+      "s_tag": "s",
+      "date": "2019-10-20 19:00",
+      "group": "snh",
+      "team": "s",
+      "expire_time": 0,
+      "bz": "《重生计划》公演,限定实名认证",
+      "btn1": "",
+      "btn2": "https://shop.48.cn/tickets/item/3354?seat_type=2",
+      "btn3": "https://shop.48.cn/tickets/item/3354?seat_type=3",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "X队《Girl X》 剧场公演",
+      "s_tag": "x",
+      "date": "2019-10-20 14:00",
+      "group": "snh",
+      "team": "x",
+      "expire_time": 0,
+      "bz": "冯晓菲生日公演,限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "N队《时之卷》 剧场公演",
+      "s_tag": "n",
+      "date": "2019-10-19 19:00",
+      "group": "snh",
+      "team": "n",
+      "expire_time": 0,
+      "bz": "《时之卷》公演,限定实名认证",
+      "btn1": "",
+      "btn2": "https://shop.48.cn/tickets/item/3352?seat_type=2",
+      "btn3": "https://shop.48.cn/tickets/item/3352?seat_type=3",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "S队《重生计划》 剧场公演",
+      "s_tag": "s",
+      "date": "2019-10-19 14:00",
+      "group": "snh",
+      "team": "s",
+      "expire_time": 0,
+      "bz": "邵雪聪生日公演,限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "X队《Girl X》 剧场公演",
+      "s_tag": "x",
+      "date": "2019-10-18 19:30",
+      "group": "snh",
+      "team": "x",
+      "expire_time": 0,
+      "bz": "《Girl X》...,限定实名认证",
+      "btn1": "",
+      "btn2": "https://shop.48.cn/tickets/item/3350?seat_type=2",
+      "btn3": "https://shop.48.cn/tickets/item/3350?seat_type=3",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "N队《时之卷》 剧场公演",
+      "s_tag": "n",
+      "date": "2019-10-17 19:30",
+      "group": "snh",
+      "team": "n",
+      "expire_time": 0,
+      "bz": "《时之卷》公演,限定实名认证",
+      "btn1": "",
+      "btn2": "https://shop.48.cn/tickets/item/3349?seat_type=2",
+      "btn3": "https://shop.48.cn/tickets/item/3349?seat_type=3",
+      "btn4": "https://shop.48.cn/tickets/item/3349?seat_type=4"
+    },
+    {
+      "title": "H队《头号新闻》 剧场公演",
+      "s_tag": "h",
+      "date": "2019-10-16 19:30",
+      "group": "snh",
+      "team": "h",
+      "expire_time": 0,
+      "bz": "《头号新闻》公演,限定实名认证",
+      "btn1": "",
+      "btn2": "https://shop.48.cn/tickets/item/3348?seat_type=2",
+      "btn3": "https://shop.48.cn/tickets/item/3348?seat_type=3",
+      "btn4": "https://shop.48.cn/tickets/item/3348?seat_type=4"
+    },
+    {
+      "title": "N队《时之卷》 剧场公演",
+      "s_tag": "n",
+      "date": "2019-10-13 19:00",
+      "group": "snh",
+      "team": "n",
+      "expire_time": 1,
+      "bz": "SNH48GRO...,限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "H队《头号新闻》 剧场公演",
+      "s_tag": "h",
+      "date": "2019-10-13 14:00",
+      "group": "snh",
+      "team": "h",
+      "expire_time": 1,
+      "bz": "《头号新闻》公演,限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "SNH48联合公演队《重生计划》特别公演 剧场公演",
+      "s_tag": "snh48联合公演",
+      "date": "2019-10-13 10:00",
+      "group": "snh",
+      "team": "snh48联合公演",
+      "expire_time": 1,
+      "bz": "限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "X队《Girl X》 剧场公演",
+      "s_tag": "x",
+      "date": "2019-10-12 19:30",
+      "group": "snh",
+      "team": "x",
+      "expire_time": 1,
+      "bz": "《Girl X》...,限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": ""
+    },
+    {
+      "title": "N队《时之卷》 剧场公演",
+      "s_tag": "n",
+      "date": "2019-10-11 19:30",
+      "group": "snh",
+      "team": "n",
+      "expire_time": 1,
+      "bz": "《时之卷》公演,限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": ""
+    },
+    {
+      "title": "X队《命运的X号》 剧场公演",
+      "s_tag": "x",
+      "date": "2019-10-07 14:00",
+      "group": "snh",
+      "team": "x",
+      "expire_time": 1,
+      "bz": "潘瑛琪生日公演,限定实名认证",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "S队《重生计划》 剧场公演",
+      "s_tag": "s",
+      "date": "2019-10-06 19:00",
+      "group": "snh",
+      "team": "s",
+      "expire_time": 1,
+      "bz": "钱蓓婷生日公演,限定实名认证,抽选场次",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "E队《宇宙e奇幻不眠夜》 剧场公演",
+      "s_tag": "e",
+      "date": "2019-10-05 19:00",
+      "group": "snh",
+      "team": "e",
+      "expire_time": 1,
+      "bz": "E队巡演,限定实名认证,抽选场次",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "E队《宇宙e奇幻不眠夜》 剧场公演",
+      "s_tag": "e",
+      "date": "2019-10-04 19:00",
+      "group": "snh",
+      "team": "e",
+      "expire_time": 1,
+      "bz": "E队巡演,限定实名认证,抽选场次",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "H队《橘色奇迹》 剧场公演",
+      "s_tag": "h",
+      "date": "2019-10-03 19:00",
+      "group": "snh",
+      "team": "h",
+      "expire_time": 1,
+      "bz": "沈梦瑶生日公演,限定实名认证,抽选场次",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": ""
+    },
+    {
+      "title": "N队男装公演 剧场公演",
+      "s_tag": "n",
+      "date": "2019-10-02 14:00",
+      "group": "snh",
+      "team": "n",
+      "expire_time": 1,
+      "bz": "男装公演,限定实名认证,抽选场次",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    },
+    {
+      "title": "N队男装公演 剧场公演",
+      "s_tag": "n",
+      "date": "2019-10-01 14:00",
+      "group": "snh",
+      "team": "n",
+      "expire_time": 1,
+      "bz": "男装公演,限定实名认证,抽选场次",
+      "btn1": "",
+      "btn2": "",
+      "btn3": "",
+      "btn4": "",
+      "btn5": ""
+    }
+  ]
+}
+```
+
+## SNH48 Group 票务信息商城版（返回值不包括已售罄公演）
 
 GET
 
